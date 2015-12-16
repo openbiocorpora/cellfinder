@@ -1,0 +1,131 @@
+T1	Anatomy 721 732	endothelial
+T2	CellType 705 719	cardiomyocytes
+T3	Anatomy 740 753	hematopoietic
+T4	CellType 4574 4577	hES
+T5	CellType 721 738	endothelial cells
+T6	CellType 4018 4021	hES
+T7	CellType 3036 3046	CD34 cells
+T8	CellType 4338 4361	natural killer (NK) cel
+T9	CellType 4578 4588	CD34 cells
+T10	CellType 754 770	progenitor cells
+T11	CellType 3734 3748	hES-CD34 cells
+T12	Anatomy 3590 3606	myeloid lineages
+T13	Anatomy 4292 4300	lymphoid
+T14	GeneProtein 3375 3379	CD34
+T15	Anatomy 2920 2925	blood
+T16	CellType 3371 3374	hES
+T17	GeneProtein 4022 4026	CD34
+T18	CellType 4258 4261	hES
+T19	CellType 772 785	keratinocytes
+T20	CellType 740 770	hematopoietic progenitor cells
+T21	CellType 4262 4272	CD34 cells
+T22	CellType 3360 3369	hES cells
+T23	CellType 3371 3379	hES-CD34
+T24	GeneProtein 2940 2944	CD34
+T25	Anatomy 2909 2925	peripheral blood
+T26	CellType 4860 4869	hES cells
+T27	CellType 2516 2540	hematopoietic stem cells
+T28	CellType 3850 3853	hES
+T29	CellType 3854 3864	CD34 cells
+T30	CellType 3344 3354	CD34 cells
+T31	Species 2242 2250	anti-HIV
+T32	CellType 1906 1917	macrophages
+T33	Anatomy 343 358	inner cell mass
+T34	CellType 28 37	hES cells
+T35	CellType 0 26	Human embryonic stem cells
+T36	CellType 3898 3912	helper T cells
+T37	CellType 3882 3893	macrophages
+T38	CellType 16 26	stem cells
+T39	CellType 3850 3864	hES-CD34 cells
+T40	Species 3753 3756	HIV
+T41	Species 0 5	Human
+T42	Anatomy 6 15	embryonic
+T43	Species 3972 3975	HIV
+T44	CellType 1923 1938	dendritic cells
+T45	Species 2392 2395	HIV
+T46	CellType 4338 4352	natural killer
+T47	CellType 2406 2413	T cells
+T48	CellType 4438 4445	T cells
+T49	Anatomy 2884 2895	bone marrow
+T50	Anatomy 1974 1987	immune system
+T51	CellType 1301 1310	hES cells
+T52	Species 5236 5239	HIV
+T53	Anatomy 1396 1409	hematopoietic
+T54	CellType 509 519	stem cells
+T55	CellType 3256 3266	CD34 cells
+T56	GeneProtein 3344 3348	CD34
+T57	Anatomy 3577 3585	lymphoid
+T58	GeneProtein 3550 3554	CD34
+T59	CellType 2418 2429	macrophages
+T60	GeneProtein 2511 2515	CD34
+T61	CellType 4327 4333	B cell
+T62	CellType 3426 3436	CD34 cells
+T63	CellType 3442 3451	hES cells
+T64	Anatomy 3089 3102	hematopoietic
+T65	GeneProtein 3426 3430	CD34
+T66	CellType 3734 3737	hES
+T67	CellType 3590 3606	myeloid lineages
+T68	CellType 3738 3748	CD34 cells
+T69	CellType 3577 3585	lymphoid
+T70	GeneProtein 5144 5148	CD34
+T71	GeneProtein 3036 3040	CD34
+T72	CellType 4903 4914	macrophages
+T73	CellType 5140 5143	hES
+T74	Species 4932 4937	HIV-1
+T75	GeneProtein 4578 4582	CD34
+T76	CellType 2811 2821	CD34 cells
+T77	CellType 1198 1207	hES cells
+T78	Species 5328 5331	HIV
+T79	Anatomy 245 254	embryonic
+T80	Anatomy 2261 2274	hematopoietic
+T81	CellType 2261 2285	hematopoietic stem cells
+T82	CellType 2275 2285	stem cells
+T83	Species 4709 4712	HIV
+T84	Species 4730 4740	lentiviral
+T85	GeneProtein 3738 3742	CD34
+T86	Anatomy 2516 2529	hematopoietic
+T87	CellType 4791 4800	hES cells
+T88	Species 5051 5059	anti-HIV
+T89	Species 2545 2553	anti-HIV
+T90	GeneProtein 3854 3858	CD34
+T91	CellType 2530 2540	stem cells
+T92	GeneProtein 3256 3260	CD34
+T93	Anatomy 3662 3675	hematopoietic
+T94	GeneProtein 4262 4266	CD34
+T95	Species 2994 2997	HIV
+T96	CellType 4022 4032	CD34 cells
+T97	CellType 3550 3560	CD34 cells
+T98	CellType 6 26	embryonic stem cells
+T99	CellType 2945 2961	progenitor cells
+T100	GeneProtein 2811 2815	CD34
+T101	CellType 2940 2961	CD34 progenitor cells
+T102	CellType 696 703	neurons
+T103	CellType 1396 1415	hematopoietic cells
+T104	Species 4966 4971	HIV-1
+T105	Species 2638 2648	Lentiviral
+T106	Species 5111 5121	lentiviral
+T107	Species 2610 2620	lentiviral
+T108	CellType 4574 4588	hES-CD34 cells
+T109	CellType 4644 4655	macrophages
+T110	Species 1417 1420	HIV
+T111	Species 2588 2593	viral
+T112	Anatomy 4050 4064	myelomonocytic
+T113	CellType 4050 4070	myelomonocytic cells
+T114	Anatomy 226 237	germ layers
+T115	CellType 787 798	osteoblasts
+T116	Species 3051 3054	HIV
+T117	CellType 4301 4311	progenitor
+T118	CellType 4258 4272	hES-CD34 cells
+T119	CellType 4292 4311	lymphoid progenitor
+T120	CellType 947 956	hES cells
+T121	CellType 804 815	hepatocytes
+T122	Anatomy 1125 1138	immune system
+T123	Anatomy 1867 1887	hematopoietic system
+T124	Species 1835 1838	HIV
+T125	CellType 1897 1904	T cells
+T126	CellType 5211 5222	macrophages
+T127	CellType 5140 5154	hES-CD34 cells
+T128	CellType 4018 4032	hES-CD34 cells
+T129	Anatomy 368 379	blastocysts
+T130	Species 362 367	human
+T131	Species 4219 4222	HIV

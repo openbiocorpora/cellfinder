@@ -1,0 +1,43 @@
+T1	CellType 2748 2750	ES
+T2	CellType 654 686	central nervous system stem cell
+T3	Anatomy 654 669	central nervous
+T4	GeneProtein 3186 3189	SLK
+T5	CellComponent 2569 2572	RNA
+T6	Species 648 653	human
+T7	Species 2742 2747	human
+T8	CellType 2742 2750	human ES
+T9	CellComponent 2362 2365	RNA
+T10	Anatomy 571 580	mammalian
+T11	Anatomy 597 605	neuronal
+T12	CellType 2089 2106	neural stem cells
+T13	Anatomy 6 15	embryonic
+T14	CellType 0 26	Human embryonic stem cells
+T15	Species 0 5	Human
+T16	CellType 2159 2185	human embryonic stem cells
+T17	GeneProtein 3123 3131	helicase
+T18	CellType 648 687	human central nervous system stem cells
+T19	GeneProtein 3094 3118	serine/theronine kinases
+T20	CellType 616 625	Human ESC
+T21	CellComponent 2416 2424	pre-mRNA
+T22	GeneProtein 1527 1530	SLK
+T23	GeneProtein 1852 1858	FOX1/2
+T24	GeneProtein 1532 1557	serine/threonine kinase 2
+T25	Anatomy 654 676	central nervous system
+T26	Species 2330 2335	human
+T27	GeneProtein 3191 3216	serine/threonine kinase 2
+T28	GeneProtein 1451 1459	helicase
+T29	GeneProtein 1423 1446	serine/threonine kinase
+T30	Anatomy 2336 2341	brain
+T31	Anatomy 2089 2095	neural
+T32	Species 2038 2043	human
+T33	Anatomy 3368 3375	mammals
+T34	Anatomy 2044 2053	embryonic
+T35	GeneProtein 1769 1775	FOX1/2
+T36	Species 2159 2164	human
+T37	CellType 2038 2064	human embryonic stem cells
+T38	Species 616 621	Human
+T39	CellType 2130 2148	neural progenitors
+T40	Anatomy 2292 2300	neuronal
+T41	CellType 28 33	hESCs
+T42	Anatomy 2165 2174	embryonic
+T43	CellComponent 482 485	RNA

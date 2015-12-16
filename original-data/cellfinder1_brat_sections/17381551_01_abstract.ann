@@ -1,0 +1,29 @@
+T1	CellType 494 499	hESCs
+T2	GeneProtein 486 490	Oct4
+T3	CellType 1059 1076	muscle stem cells
+T4	CellType 368 378	stem cells
+T5	CellType 339 344	hESCs
+T6	CellType 327 337	stem cells
+T7	Anatomy 317 326	embryonic
+T8	CellType 311 337	human embryonic stem cells
+T9	CellType 1309 1324	embryonic cells
+T10	CellType 361 378	muscle stem cells
+T11	Anatomy 52 68	stem cell niches
+T12	Species 111 115	mice
+T13	Anatomy 143 152	embryonic
+T14	Anatomy 768 776	myogenic
+T15	CellType 650 654	ASCs
+T16	CellType 523 538	satellite cells
+T17	Anatomy 569 577	myogenic
+T18	GeneProtein 504 509	Myf-5
+T19	CellType 157 173	adult stem cells
+T20	CellType 163 173	stem cells
+T21	CellType 733 738	hESCs
+T22	CellType 777 781	ASCs
+T23	Species 120 126	humans
+T24	CellType 768 781	myogenic ASCs
+T25	Anatomy 602 611	embryonic
+T26	CellType 350 378	post-natal muscle stem cells
+T27	CellType 380 395	satellite cells
+T28	Anatomy 1309 1318	embryonic
+T29	CellType 632 648	adult stem cells

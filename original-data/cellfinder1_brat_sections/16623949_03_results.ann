@@ -1,0 +1,305 @@
+T1	GeneProtein 8482 8486	CD34
+T2	Anatomy 8476 8481	liver
+T3	Anatomy 8742 8747	fetal
+T4	CellType 8734 8737	hES
+T5	Species 7598 7605	E. coli
+T6	CellType 743 753	CD34 cells
+T7	CellType 831 845	hES-CD34 cells
+T8	CellType 5117 5158	fetal liver CD34 cell derived macrophages
+T9	Species 9721 9726	virus
+T10	GeneProtein 2980 2984	CD14
+T11	CellType 2639 2666	hES cell derived CD34 cells
+T12	GeneProtein 2834 2841	derived
+T13	CellType 4540 4568	hES cell derived macrophages
+T14	Anatomy 2361 2366	liver
+T15	Anatomy 307 315	colonies
+T16	Anatomy 630 653	embryonic cystic bodies
+T17	CellType 1906 1915	hES cells
+T18	Species 9553 9558	virus
+T19	GeneProtein 8794 8797	LPS
+T20	GeneProtein 1721 1725	CD34
+T21	GeneProtein 5873 5877	B7.1
+T22	Anatomy 1701 1712	cystic body
+T23	CellType 9661 9672	macrophages
+T24	CellType 1721 1731	CD34 cells
+T25	Anatomy 630 639	embryonic
+T26	Anatomy 2925 2930	fetal
+T27	GeneProtein 743 747	CD34
+T28	CellType 5662 5673	macrophages
+T29	Anatomy 1140 1145	fetal
+T30	Anatomy 8748 8753	liver
+T31	Anatomy 712 725	cystic bodies
+T32	GeneProtein 8754 8758	CD34
+T33	Anatomy 1146 1151	liver
+T34	CellType 856 866	CD34 cells
+T35	Anatomy 934 941	myeloid
+T36	Anatomy 2194 2217	myelomonocytic colonies
+T37	CellType 835 845	CD34 cells
+T38	CellType 6938 6949	macrophages
+T39	Anatomy 1099 1122	myelomonocytic colonies
+T40	CellType 7065 7075	phagocytic
+T41	CellType 2912 2920	hES CD34
+T42	Species 9396 9401	HIV-1
+T43	CellType 5703 5710	T cells
+T44	Anatomy 2355 2360	fetal
+T45	Anatomy 8742 8753	fetal liver
+T46	CellType 9433 9444	macrophages
+T47	CellType 8667 8678	macrophages
+T48	Anatomy 2209 2217	colonies
+T49	GeneProtein 2937 2941	CD34
+T50	Anatomy 2931 2936	liver
+T51	CellType 5160 5188	hES cell derived macrophages
+T52	Anatomy 5900 5905	liver
+T53	GeneProtein 1683 1686	GFP
+T54	GeneProtein 2067 2071	CD34
+T55	CellType 5834 5845	macrophages
+T56	CellType 2925 2947	fetal liver CD34 cells
+T57	Anatomy 934 950	myeloid colonies
+T58	GeneProtein 1068 1072	CD34
+T59	GeneProtein 1583 1586	GFP
+T60	Anatomy 5894 5899	fetal
+T61	CellType 1051 1078	hES cell derived CD34 cells
+T62	CellType 2656 2666	CD34 cells
+T63	CellType 1849 1860	macrophages
+T64	CellType 7261 7264	hES
+T65	CellType 7712 7723	macrophages
+T66	Species 7224 7234	lentiviral
+T67	Anatomy 7367 7378	fetal liver
+T68	CellType 7278 7289	macrophages
+T69	GeneProtein 3799 3803	CD34
+T70	CellType 3598 3626	hES cell derived macrophages
+T71	Anatomy 3793 3798	fetal
+T72	CellType 3793 3808	fetal CD34 cell
+T73	CellType 3615 3626	macrophages
+T74	CellType 9364 9375	macrophages
+T75	GeneProtein 2999 3003	CCR5
+T76	Anatomy 8470 8481	fetal liver
+T77	GeneProtein 2994 2997	CD4
+T78	GeneProtein 3009 3014	CXCR4
+T79	GeneProtein 2986 2992	HLA-DR
+T80	CellType 3872 3880	monocyte
+T81	CellType 7962 7973	macrophages
+T82	GeneProtein 3909 3915	HLA-DR
+T83	GeneProtein 3864 3868	CD14
+T84	CellType 3817 3828	macrophages
+T85	GeneProtein 5492 5498	HLA-DR
+T86	Anatomy 5117 5128	fetal liver
+T87	Anatomy 640 653	cystic bodies
+T88	GeneProtein 2916 2920	CD34
+T89	CellType 9222 9233	macrophages
+T90	CellType 2858 2869	Macrophages
+T91	CellType 5388 5416	hES cell derived macrophages
+T92	CellType 5405 5416	macrophages
+T93	CellType 8650 8657	hES cel
+T94	GeneProtein 856 860	CD34
+T95	GeneProtein 8621 8625	TNFα
+T96	CellType 8680 8691	Macrophages
+T97	GeneProtein 8894 8898	IL-1
+T98	GeneProtein 8907 8911	TNFα
+T99	GeneProtein 835 839	CD34
+T100	Species 9855 9860	viral
+T101	Anatomy 4663 4668	fetal
+T102	Anatomy 404 430	vector transduced colonies
+T103	CellType 4638 4649	macrophages
+T104	CellType 1807 1818	macrophages
+T105	Anatomy 544 555	bone marrow
+T106	GeneProtein 487 490	GFP
+T107	CellType 2194 2208	myelomonocytic
+T108	CellType 170 190	embryonic stem cells
+T109	Anatomy 4261 4272	Fetal liver
+T110	CellType 6034 6045	macrophages
+T111	CellType 5518 5529	macrophages
+T112	Species 9314 9319	HIV-1
+T113	CellType 5572 5579	T cells
+T114	GeneProtein 5568 5571	CD4
+T115	Species 9500 9505	HIV-1
+T116	GeneProtein 5804 5807	LPS
+T117	Species 538 543	mouse
+T118	CellType 6627 6637	phagocytic
+T119	GeneProtein 4414 4418	CD14
+T120	CellType 6706 6717	macrophages
+T121	Anatomy 2032 2045	cystic bodies
+T122	GeneProtein 6338 6341	LPS
+T123	CellType 4332 4360	hES cell derived macrophages
+T124	Anatomy 2047 2058	Cystic body
+T125	Species 7108 7115	E. coli
+T126	Anatomy 7367 7372	fetal
+T127	Species 6648 6655	E. coli
+T128	GeneProtein 2292 2298	GM-CSF
+T129	GeneProtein 5615 5619	B7.1
+T130	CellType 230 233	MEF
+T131	CellType 605 614	hES cells
+T132	GeneProtein 1032 1035	GFP
+T133	GeneProtein 3977 3980	CD4
+T134	GeneProtein 2303 2308	M-CSF
+T135	GeneProtein 3919 3940	class II MHC molecule
+T136	CellType 6182 6210	hES cell derived macrophages
+T137	GeneProtein 4035 4040	CXCR4
+T138	CellType 1448 1468	stem cell progenitor
+T139	Anatomy 1114 1122	colonies
+T140	GeneProtein 8129 8134	TNF-α
+T141	CellType 1364 1375	macrophages
+T142	Species 269 279	lentiviral
+T143	GeneProtein 7922 7927	TNF-α
+T144	GeneProtein 1183 1187	CD34
+T145	CellType 5177 5188	macrophages
+T146	Species 4107 4112	HIV-1
+T147	Anatomy 8470 8475	fetal
+T148	CellType 5160 5167	hES cel
+T149	GeneProtein 4120 4124	EGFP
+T150	Anatomy 4947 4958	fetal liver
+T151	GeneProtein 4771 4774	CD4
+T152	GeneProtein 4895 4900	CXCR4
+T153	CellType 9998 10009	macrophages
+T154	Species 3451 3456	viral
+T155	Species 1980 1985	mouse
+T156	GeneProtein 8120 8124	IL-1
+T157	Anatomy 1990 2001	bone marrow
+T158	Anatomy 556 563	stromal
+T159	GeneProtein 8364 8367	LPS
+T160	CellType 8240 8251	macrophages
+T161	CellType 6199 6210	macrophages
+T162	Species 9100 9105	human
+T163	CellType 6017 6045	hES cell derived macrophages
+T164	GeneProtein 116 120	bFGF
+T165	GeneProtein 1160 1164	CD34
+T166	CellType 9061 9072	macrophages
+T167	GeneProtein 6109 6113	B7.1
+T168	CellLine 1986 1989	S17
+T169	GeneProtein 8199 8203	IL-1
+T170	Species 3478 3483	HIV-1
+T171	CellType 9963 9974	macrophages
+T172	GeneProtein 9991 9994	GFP
+T173	Species 164 169	human
+T174	CellType 9100 9117	human macrophages
+T175	Anatomy 5894 5905	fetal liver
+T176	GeneProtein 5231 5236	CXCR4
+T177	Anatomy 9207 9220	immune system
+T178	CellType 556 569	stromal cells
+T179	CellType 831 834	hES
+T180	GeneProtein 6465 6469	B7.1
+T181	GeneProtein 7379 7383	CD34
+T182	Anatomy 234 247	feeder layers
+T183	CellType 6305 6316	macrophages
+T184	GeneProtein 8612 8616	IL-1
+T185	GeneProtein 6355 6359	B7.1
+T186	CellType 4296 4298	ES
+T187	Anatomy 4947 4952	fetal
+T188	Anatomy 4261 4266	Fetal
+T189	CellType 8310 8321	macrophages
+T190	Anatomy 4953 4958	liver
+T191	CellType 1419 1430	macrophages
+T192	CellLine 534 537	S17
+T193	CellType 8500 8511	macrophages
+T194	CellType 534 569	S17 mouse bone marrow stromal cells
+T195	GeneProtein 4886 4890	CCR5
+T196	CellType 4743 4752	hES cells
+T197	CellType 4663 4685	fetal liver CD34 cells
+T198	CellType 4806 4835	stem cell derived macrophages
+T199	CellType 1670 1681	macrophages
+T200	CellType 6410 6421	macrophages
+T201	CellType 7397 7408	macrophages
+T202	Anatomy 1140 1151	fetal liver
+T203	Anatomy 7373 7378	liver
+T204	CellType 1160 1170	CD34 cells
+T205	CellType 8967 8978	macrophages
+T206	CellType 7846 7857	macrophages
+T207	CellType 9947 9949	ES
+T208	GeneProtein 8023 8026	LPS
+T209	CellType 5147 5158	macrophages
+T210	Species 6276 6283	E. coli
+T211	Anatomy 5117 5122	fetal
+T212	CellType 7548 7563	phagocytic cell
+T213	CellType 1068 1078	CD34 cells
+T214	Species 7687 7694	E. coli
+T215	CellType 9778 9789	macrophages
+T216	Species 10034 10039	viral
+T217	CellType 9947 9954	ES cell
+T218	GeneProtein 2543 2546	GFP
+T219	CellType 1648 1657	hES cells
+T220	GeneProtein 2656 2660	CD34
+T221	GeneProtein 5500 5506	MHC II
+T222	Species 1866 1876	lentiviral
+T223	Species 9815 9820	viral
+T224	Species 9279 9284	viral
+T225	CellType 9995 9997	ES
+T226	Anatomy 66 74	colonies
+T227	Anatomy 4669 4674	liver
+T228	CellLine 7486 7496	Magi-CXCR4
+T229	GeneProtein 4675 4679	CD34
+T230	Anatomy 4267 4272	liver
+T231	CellType 14 25	macrophages
+T232	CellType 7486 7502	Magi-CXCR4 cells
+T233	CellType 3667 3678	macrophages
+T234	GeneProtein 4026 4030	CCR5
+T235	GeneProtein 2375 2379	CD34
+T236	CellType 2516 2527	macrophages
+T237	GeneProtein 4324 4327	GFP
+T238	CellType 2375 2385	CD34 cells
+T239	Anatomy 2466 2479	cystic bodies
+T240	Anatomy 5123 5128	liver
+T241	CellType 7511 7521	phagocytic
+T242	CellType 2448 2455	ES cell
+T243	CellType 7758 7769	Macrophages
+T244	CellType 2420 2431	macrophages
+T245	Species 8998 9003	HIV-1
+T246	Anatomy 2355 2366	fetal liver
+T247	CellType 7774 7788	effector cells
+T248	CellType 6970 6981	phagocytose
+T249	CellComponent 7039 7051	cell surface
+T250	GeneProtein 5271 5276	PECY5
+T251	Species 9895 9900	viral
+T252	CellType 31 40	hES cells
+T253	GeneProtein 2723 2727	CD34
+T254	CellType 9766 9769	hES
+T255	CellType 2723 2733	CD34 cells
+T256	CellType 9512 9523	macrophages
+T257	CellType 4709 4718	hES cells
+T258	CellType 1980 2014	mouse S17 bone marrow stromal cell
+T259	GeneProtein 4592 4598	HLA-DR
+T260	CellType 9347 9350	hES
+T261	CellType 9644 9647	hES
+T262	CellType 3287 3315	hES cell derived macrophages
+T263	CellType 3351 3362	Macrophages
+T264	CellType 8293 8296	hES
+T265	CellType 9044 9047	hES
+T266	CellType 8950 8953	hES
+T267	CellType 8650 8653	hES
+T268	GeneProtein 4959 4963	CD34
+T269	CellType 5080 5091	macrophages
+T270	Anatomy 2002 2009	stromal
+T271	GeneProtein 5129 5133	CD34
+T272	CellType 5045 5052	hES cel
+T273	CellType 7945 7948	hES
+T274	CellType 3304 3315	macrophages
+T275	CellType 2067 2077	CD34 cells
+T276	GeneProtein 6501 6505	B7.1
+T277	CellType 4675 4685	CD34 cells
+T278	CellType 4349 4360	macrophages
+T279	CellType 8754 8764	CD34 cells
+T280	CellType 4557 4568	macrophages
+T281	CellType 4824 4835	macrophages
+T282	Anatomy 4663 4674	fetal liver
+T283	CellType 7261 7268	hES cel
+T284	CellType 2912 2915	hES
+T285	CellType 2937 2947	CD34 cells
+T286	GeneProtein 4274 4278	CD34
+T287	CellType 1099 1113	myelomonocytic
+T288	Species 4005 4010	HIV-1
+T289	CellType 9644 9651	hES cel
+T290	CellType 9106 9117	macrophages
+T291	Species 1134 1139	human
+T292	GeneProtein 8343 8348	TNF-α
+T293	Anatomy 1134 1151	human fetal liver
+T294	GeneProtein 7491 7496	CXCR4
+T295	GeneProtein 5906 5910	CD34
+T296	CellType 2842 2853	macrophages
+T297	CellType 8950 8957	hES cel
+T298	Anatomy 2925 2936	fetal liver
+T299	CellType 9347 9354	hES cel
+T300	Anatomy 2015 2021	layers
+T301	CellType 1953 1962	hES cells
+T302	GeneProtein 6215 6219	B7.1
+T303	CellLine 1950 1952	H1
+T304	GeneProtein 7913 7917	IL-1
+T305	CellType 1950 1962	H1 hES cells

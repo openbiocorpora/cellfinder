@@ -1,0 +1,520 @@
+T1	CellType 2380 2395	satellite cells
+T2	CellType 13001 13006	hESCs
+T3	CellType 15088 15102	myogenic cells
+T4	Anatomy 25994 26003	embryonic
+T5	CellType 15518 15528	fibroblast
+T6	Anatomy 15617 15625	myogenic
+T7	GeneProtein 1749 1755	desmin
+T8	CellType 15617 15631	myogenic cells
+T9	CellType 9651 9660	myofibers
+T10	Anatomy 8567 8576	embryonic
+T11	Anatomy 15000 15008	myofiber
+T12	Anatomy 15111 15126	skeletal muscle
+T13	CellType 15467 15476	myofibers
+T14	CellType 0 12	Regenerative
+T15	Anatomy 1662 1670	myogenic
+T16	Anatomy 24793 24809	desmin+ myofiber
+T17	GeneProtein 15554 15558	Oct4
+T18	CellType 20997 21005	myogenic
+T19	Anatomy 17799 17807	myogenic
+T20	CellType 17539 17548	myofibers
+T21	CellType 6119 6124	hESCs
+T22	CellType 9217 9222	hESCs
+T23	GeneProtein 22324 22329	eMyHC
+T24	CellType 8228 8238	stem cells
+T25	Anatomy 18118 18126	Myogenic
+T26	Anatomy 8218 8227	Embryonic
+T27	CellType 21033 21048	satellite cells
+T28	Anatomy 15088 15096	myogenic
+T29	CellType 7930 7945	satellite cells
+T30	CellType 13011 13015	ASCs
+T31	Anatomy 3395 3405	myogenesis
+T32	Species 8485 8490	mouse
+T33	CellType 16762 16770	myotubes
+T34	CellType 8396 8402	feeder
+T35	Anatomy 3306 3314	myogenic
+T36	CellType 9320 9336	myogenic progeny
+T37	CellType 8040 8055	satellite cells
+T38	CellType 9746 9751	hESCs
+T39	GeneProtein 8550 8554	Oct4
+T40	CellType 9067 9082	satellite cells
+T41	Species 24977 24982	mouse
+T42	CellType 1726 1735	myoblasts
+T43	CellType 8218 8238	Embryonic stem cells
+T44	Anatomy 16486 16494	myofiber
+T45	Anatomy 20849 20869	embryonic microniche
+T46	CellType 10463 10472	myofibers
+T47	CellType 10443 10458	satellite cells
+T48	CellType 14402 14412	progenitor
+T49	CellType 14389 14418	mouse muscle progenitor cells
+T50	Anatomy 1984 1992	myogenic
+T51	GeneProtein 9502 9508	desmin
+T52	Species 11279 11284	mouse
+T53	CellType 21857 21872	satellite cells
+T54	GeneProtein 12650 12654	Myf5
+T55	CellType 12675 12679	ESCs
+T56	Anatomy 17121 17129	myogenic
+T57	GeneProtein 9424 9430	desmin
+T58	Species 12784 12789	mouse
+T59	Anatomy 9448 9456	myogenic
+T60	GeneProtein 14432 14438	desmin
+T61	CellType 17082 17097	satellite cells
+T62	Anatomy 14479 14487	myogenic
+T63	CellType 9432 9437	hESCs
+T64	Anatomy 3475 3483	myogenic
+T65	Anatomy 9524 9532	myogenic
+T66	CellType 13404 13410	muscle
+T67	Anatomy 10596 10604	myogenic
+T68	Anatomy 22974 22987	gastrocnemius
+T69	Anatomy 13198 13206	myogenic
+T70	CellType 9524 9540	myogenic progeny
+T71	GeneProtein 11514 11518	Myf5
+T72	CellType 11596 11601	hESCs
+T73	GeneProtein 15916 15920	Oct4
+T74	GeneProtein 18459 18465	desmin
+T75	Anatomy 14269 14276	cardiac
+T76	Species 15694 15699	mouse
+T77	CellType 22931 22936	hESCs
+T78	GeneProtein 4429 4433	Oct4
+T79	GeneProtein 2686 2690	Pax7
+T80	Anatomy 2824 2833	myofibers
+T81	CellType 13154 13159	hESCs
+T82	Anatomy 22715 22724	embryonic
+T83	GeneProtein 14420 14430	M-cadherin
+T84	Anatomy 22778 22793	Skeletal muscle
+T85	GeneProtein 4184 4188	Ki67
+T86	CellType 13167 13171	ASCs
+T87	CellType 11559 11569	stem cells
+T88	GeneProtein 2617 2621	Myf5
+T89	Anatomy 4886 4895	embryonic
+T90	CellType 13321 13330	Myofibers
+T91	CellComponent 22442 22448	nuclei
+T92	Anatomy 21719 21721	TA
+T93	Species 5767 5772	mouse
+T94	Anatomy 16824 16832	myogenic
+T95	Anatomy 4512 4527	inner cell mass
+T96	GeneProtein 11496 11500	Oct4
+T97	Anatomy 8256 8266	microniche
+T98	CellType 22132 22141	myofibers
+T99	Anatomy 18663 18671	skeletal
+T100	Anatomy 14249 14257	skeletal
+T101	CellType 15343 15348	hESCs
+T102	GeneProtein 10967 10973	desmin
+T103	Anatomy 15315 15323	myogenic
+T104	Anatomy 22064 22070	Muscle
+T105	CellType 11041 11050	myofibers
+T106	Species 5696 5701	mouse
+T107	CellType 15171 15194	multinucleated myotubes
+T108	Anatomy 9933 9941	myofiber
+T109	CellComponent 15171 15185	multinucleated
+T110	Anatomy 18179 18187	myofiber
+T111	CellType 24618 24623	hESCs
+T112	CellComponent 24517 24523	nuclei
+T113	Anatomy 9305 9313	myofiber
+T114	Species 4352 4357	mouse
+T115	CellComponent 2755 2761	nuclei
+T116	CellType 22472 22481	myofibers
+T117	GeneProtein 2875 2879	Myf5
+T118	CellType 20482 20487	hESCs
+T119	CellType 21168 21183	satellite cells
+T120	CellComponent 16747 16761	multinucleated
+T121	Anatomy 22952 22969	tibialis anterior
+T122	CellType 7460 7465	hESCs
+T123	Species 7447 7452	mouse
+T124	Anatomy 18663 18678	skeletal muscle
+T125	CellType 15251 15259	myotubes
+T126	CellType 15016 15027	mouse cells
+T127	Species 15016 15021	mouse
+T128	Anatomy 20849 20858	embryonic
+T129	GeneProtein 7383 7387	Oct4
+T130	Anatomy 21727 21748	gastrocnemius muscles
+T131	CellType 19495 19500	hESCs
+T132	GeneProtein 12273 12277	Oct4
+T133	CellType 2012 2027	satellite cells
+T134	CellType 19556 19561	hMSCs
+T135	Species 5629 5634	mouse
+T136	GeneProtein 219 224	Notch
+T137	Anatomy 12035 12045	microniche
+T138	Anatomy 1341 1349	myofiber
+T139	CellType 11761 11765	ASCs
+T140	CellType 11858 11868	stem cells
+T141	Anatomy 14720 14728	myofiber
+T142	Anatomy 15111 15119	skeletal
+T143	Anatomy 12025 12034	embryonic
+T144	Anatomy 15111 15134	skeletal muscle lineage
+T145	Anatomy 16385 16393	myofiber
+T146	CellType 9490 9514	M-cadherin+/desmin+ cell
+T147	Anatomy 3636 3644	myogenic
+T148	Species 9109 9114	mouse
+T149	Anatomy 17927 17939	muscle niche
+T150	Anatomy 9000 9017	Aged muscle niche
+T151	CellType 16154 16156	Mb
+T152	CellType 20753 20768	satellite cells
+T153	Anatomy 14518 14541	skeletal muscle lineage
+T154	Anatomy 14656 14668	myogenically
+T155	Anatomy 23365 23373	myofiber
+T156	CellType 14395 14417	muscle progenitor cell
+T157	Anatomy 14518 14533	skeletal muscle
+T158	Anatomy 23529 23537	myofiber
+T159	Anatomy 14227 14235	myofiber
+T160	Anatomy 10005 10013	myofiber
+T161	Anatomy 9970 9978	myofiber
+T162	Anatomy 23939 23947	myofiber
+T163	Anatomy 9814 9822	myofiber
+T164	Anatomy 9896 9904	myofiber
+T165	CellType 271 281	stem cells
+T166	CellType 264 281	muscle stem cells
+T167	CellType 17445 17454	myoblasts
+T168	GeneProtein 9490 9500	M-cadherin
+T169	CellType 9340 9345	hESCs
+T170	GeneProtein 17437 17443	desmin
+T171	Anatomy 17231 17250	aged systemic niche
+T172	GeneProtein 9412 9422	M-cadherin
+T173	GeneProtein 9354 9364	M-cadherin
+T174	Species 5070 5075	mouse
+T175	CellComponent 23487 23493	nuclei
+T176	CellType 14175 14191	myogenic progeny
+T177	Anatomy 22988 22995	muscles
+T178	CellType 23213 23222	myofibers
+T179	CellType 16159 16164	hMSCs
+T180	Anatomy 13321 13329	Myofiber
+T181	CellType 14195 14200	hESCs
+T182	GeneProtein 9366 9372	desmin
+T183	CellType 23044 23049	hMSCs
+T184	CellType 14227 14236	myofibers
+T185	CellType 24441 24446	hESCs
+T186	CellComponent 16284 16290	nuclei
+T187	CellType 23035 23040	hESCs
+T188	CellComponent 19474 19480	nuclei
+T189	CellType 4465 4481	pluripotent ESCs
+T190	Anatomy 17062 17070	myofiber
+T191	GeneProtein 12642 12646	Oct4
+T192	GeneProtein 24356 24360	NuMA
+T193	GeneProtein 16043 16048	eMyHC
+T194	CellType 15436 15441	hESCs
+T195	GeneProtein 12299 12303	Myf5
+T196	Anatomy 20248 20256	myofiber
+T197	CellType 19434 19442	myotubes
+T198	CellType 24386 24391	hESCs
+T199	GeneProtein 24317 24321	Oct4
+T200	CellType 11955 11960	hESCs
+T201	CellComponent 1794 1808	multinucleated
+T202	GeneProtein 1760 1764	Myf5
+T203	CellType 1817 1825	myotubes
+T204	Anatomy 19897 19905	myofiber
+T205	CellType 399 411	muscle cells
+T206	CellType 1794 1825	multinucleated nascent myotubes
+T207	CellType 26 49	adult muscle stem cells
+T208	CellType 19428 19442	fused myotubes
+T209	CellType 4477 4481	ESCs
+T210	CellType 16186 16188	Mb
+T211	Anatomy 20006 20028	multinucleated myotube
+T212	CellType 14105 14143	M-cadherin−/desmin+ mononucleated cell
+T213	CellType 16169 16178	myoblasts
+T214	Anatomy 15665 15673	myofiber
+T215	GeneProtein 5334 5338	Oct4
+T216	Species 9174 9179	mouse
+T217	CellType 21668 21673	hESCs
+T218	GeneProtein 23587 23592	eMyHC
+T219	CellType 20061 20076	satellite cells
+T220	CellComponent 14866 14873	nuclear
+T221	CellType 11528 11532	ASCs
+T222	CellType 16747 16770	multinucleated myotubes
+T223	GeneProtein 8919 8923	Oct4
+T224	GeneProtein 2867 2873	desmin
+T225	Species 14994 14999	mouse
+T226	CellType 18603 18608	hESCs
+T227	CellType 6576 6581	hESCs
+T228	CellType 9550 9565	satellite cells
+T229	CellType 13677 13685	myotubes
+T230	Species 11376 11381	mouse
+T231	CellType 24697 24706	myofibers
+T232	CellType 23939 23948	myofibers
+T233	CellType 711 726	satellite cells
+T234	CellType 7755 7770	satellite cells
+T235	GeneProtein 25371 25375	NuMA
+T236	Anatomy 733 741	myogenic
+T237	Anatomy 7653 7662	embryonic
+T238	GeneProtein 6633 6637	Oct4
+T239	GeneProtein 14910 14914	Oct4
+T240	Species 15273 15278	horse
+T241	CellType 14684 14695	human cells
+T242	Anatomy 20145 20153	myogenic
+T243	Anatomy 12025 12045	embryonic microniche
+T244	CellType 19130 19139	myoblasts
+T245	CellType 12930 12934	ASCs
+T246	CellType 16104 16119	mouse myoblasts
+T247	CellType 20021 20029	myotubes
+T248	CellType 14027 14032	hESCs
+T249	CellType 12684 12688	ASCs
+T250	Anatomy 22132 22140	myofiber
+T251	CellType 19370 19377	myoblas
+T252	CellType 24647 24652	hMSCs
+T253	Anatomy 22381 22389	myofiber
+T254	Species 12894 12899	mouse
+T255	Species 21766 21770	mice
+T256	Anatomy 8567 8587	embryonic microniche
+T257	Anatomy 24983 24991	myofiber
+T258	GeneProtein 18166 18172	desmin
+T259	Species 21989 21993	mice
+T260	CellType 3800 3810	stem cells
+T261	CellType 16130 16151	mesenchymal stem cell
+T262	Species 16846 16851	mouse
+T263	Anatomy 25037 25059	NuMA+/desmin+ myofiber
+T264	CellType 9544 9565	mouse satellite cells
+T265	CellType 13274 13279	hESCs
+T266	CellType 15665 15674	myofibers
+T267	CellType 20082 20087	hMSCs
+T268	GeneProtein 14117 14123	desmin
+T269	CellType 11522 11532	mouse ASCs
+T270	Species 12843 12848	mouse
+T271	CellType 15767 15772	hESCs
+T272	Species 15882 15887	mouse
+T273	CellType 13650 13659	myoblasts
+T274	CellType 19352 19357	hESCs
+T275	Anatomy 22672 22687	skeletal muscle
+T276	Species 24691 24696	mouse
+T277	GeneProtein 25231 25235	Oct4
+T278	GeneProtein 10254 10260	desmin
+T279	CellType 19261 19270	myoblasts
+T280	GeneProtein 25453 25457	Oct4
+T281	Anatomy 18750 18758	myogenic
+T282	CellType 25289 25294	hESCs
+T283	Anatomy 17734 17752	local organ niches
+T284	CellType 21685 21690	hMSCs
+T285	Species 13829 13834	mouse
+T286	Anatomy 8577 8587	microniche
+T287	Anatomy 18433 18441	myogenic
+T288	CellType 16142 16152	stem cells
+T289	CellType 16124 16152	human mesenchymal stem cells
+T290	CellType 19011 19016	hMSCs
+T291	CellType 19241 19243	Mb
+T292	CellType 18777 18792	satellite cells
+T293	CellType 19181 19196	satellite cells
+T294	Species 13713 13718	mouse
+T295	CellType 18981 19009	human mesenchymal stem cells
+T296	CellType 13728 13738	progenitor
+T297	CellType 19303 19318	nascent myotube
+T298	Anatomy 13719 13727	myogenic
+T299	CellType 19961 19975	myogenic cells
+T300	GeneProtein 13934 13940	desmin
+T301	GeneProtein 9124 9134	M-cadherin
+T302	Anatomy 14269 14283	cardiac muscle
+T303	CellType 18835 18840	hESCs
+T304	CellType 25994 26009	embryonic cells
+T305	Anatomy 16628 16636	myofiber
+T306	CellType 11478 11488	stem cells
+T307	CellType 2353 2368	satellite cells
+T308	CellType 13633 13659	fusion-competent myoblasts
+T309	Species 16104 16109	mouse
+T310	Anatomy 16519 16527	myofiber
+T311	CellType 6904 6909	hESCs
+T312	CellType 3896 3901	hESCs
+T313	CellType 3793 3810	muscle stem cells
+T314	CellType 961 976	satellite cells
+T315	CellType 15821 15826	hESCs
+T316	CellType 15796 15807	mouse cells
+T317	Anatomy 16747 16769	multinucleated myotube
+T318	CellType 16479 16484	hESCs
+T319	Anatomy 18934 18942	myogenic
+T320	CellType 5928 5938	Oct4+ cell
+T321	CellType 25051 25060	myofibers
+T322	Species 1094 1098	mice
+T323	CellType 11472 11488	adult stem cells
+T324	CellType 54 59	hESCs
+T325	CellType 25899 25904	hESCs
+T326	CellType 18925 18930	hESCs
+T327	CellType 16512 16517	hMSCs
+T328	Anatomy 10663 10671	Myogenic
+T329	GeneProtein 2146 2150	Pax7
+T330	CellType 6493 6503	stem cells
+T331	CellType 15838 15843	hMSCs
+T332	GeneProtein 15609 15615	desmin
+T333	GeneProtein 4090 4094	Oct4
+T334	CellType 10715 10730	satellite cells
+T335	GeneProtein 16958 16962	Oct4
+T336	GeneProtein 11586 11590	Oct4
+T337	GeneProtein 15037 15043	desmin
+T338	Anatomy 16130 16141	mesenchymal
+T339	Anatomy 2129 2137	myogenic
+T340	Species 3611 3615	mice
+T341	Anatomy 7663 7673	microniche
+T342	GeneProtein 6372 6376	Ki67
+T343	CellType 22545 22554	myofibers
+T344	GeneProtein 6315 6319	Oct4
+T345	Anatomy 10463 10471	myofiber
+T346	Anatomy 13677 13685	myotubes
+T347	GeneProtein 13875 13885	M-cadherin
+T348	Anatomy 23416 23424	myofiber
+T349	Anatomy 10284 10292	myofiber
+T350	CellType 12963 12968	hESCs
+T351	CellType 20268 20283	satellite cells
+T352	Anatomy 11458 11467	embryonic
+T353	GeneProtein 20179 20185	desmin
+T354	GeneProtein 14866 14899	nuclear mitotic apparatus protein
+T355	GeneProtein 14105 14115	M-cadherin
+T356	CellType 20410 20418	myogenic
+T357	GeneProtein 14901 14905	NuMA
+T358	Anatomy 14518 14526	skeletal
+T359	Anatomy 9651 9659	myofiber
+T360	CellType 6487 6503	adult stem cells
+T361	Anatomy 7653 7673	embryonic microniche
+T362	Anatomy 14094 14102	myofiber
+T363	GeneProtein 6157 6161	Oct4
+T364	CellType 18987 19008	mesenchymal stem cell
+T365	Anatomy 24882 24890	myofiber
+T366	CellType 14994 15009	mouse myofibers
+T367	Anatomy 15171 15193	multinucleated myotube
+T368	Anatomy 18987 18998	mesenchymal
+T369	Anatomy 18592 18600	myofiber
+T370	GeneProtein 22522 22527	eMyHC
+T371	Anatomy 15467 15475	myofiber
+T372	Species 14389 14394	mouse
+T373	CellType 11547 11569	adult mouse stem cells
+T374	Anatomy 22472 22480	myofiber
+T375	CellType 22627 22632	hESCs
+T376	CellType 15000 15009	myofibers
+T377	CellType 10757 10773	desmin+ myoblast
+T378	Anatomy 11041 11049	myofiber
+T379	Anatomy 22545 22553	myofiber
+T380	CellType 10967 10985	desmin+/BrdU+ cell
+T381	CellType 8378 8383	hESCs
+T382	GeneProtein 24935 24939	NuMA
+T383	CellType 24923 24928	hESCs
+T384	Species 7913 7919	muscle
+T385	Anatomy 14043 14051	myogenic
+T386	CellType 14094 14103	myofibers
+T387	Species 7990 7995	mouse
+T388	Species 13980 13985	mouse
+T389	CellType 19075 19080	hESCs
+T390	CellType 13719 13744	myogenic progenitor cells
+T391	CellType 6505 6509	ASCs
+T392	CellType 3586 3601	satellite cells
+T393	Anatomy 10510 10518	myofiber
+T394	Anatomy 22778 22786	Skeletal
+T395	Anatomy 10533 10541	myofiber
+T396	CellType 18999 19009	stem cells
+T397	Anatomy 23213 23221	myofiber
+T398	CellType 11322 11342	embryonic stem cells
+T399	Anatomy 22672 22680	skeletal
+T400	Species 16007 16012	mouse
+T401	Species 11553 11558	mouse
+T402	Anatomy 13527 13535	myogenic
+T403	CellType 16007 16022	mouse myoblasts
+T404	CellType 18486 18490	ESCs
+T405	Anatomy 1267 1275	myogenic
+T406	Anatomy 11322 11331	embryonic
+T407	CellType 10035 10040	hESCs
+T408	CellType 15888 15897	myoblasts
+T409	CellType 10122 10127	hESCs
+T410	Anatomy 16587 16595	myogenic
+T411	CellType 11751 11756	hESCs
+T412	GeneProtein 19953 19959	desmin
+T413	CellType 13713 13744	mouse myogenic progenitor cells
+T414	CellType 16628 16663	myofiber-associated satellite cells
+T415	CellComponent 10209 10215	nuclei
+T416	CellType 16648 16663	satellite cells
+T417	CellType 11332 11342	stem cells
+T418	CellType 16405 16420	satellite cells
+T419	CellType 16013 16022	myoblasts
+T420	Anatomy 21605 21620	skeletal muscle
+T421	CellType 19638 19640	Mb
+T422	CellType 10268 10273	hESCs
+T423	GeneProtein 13600 13606	desmin
+T424	CellType 21425 21430	hESCs
+T425	CellType 15882 15897	mouse myoblasts
+T426	CellComponent 20006 20020	multinucleated
+T427	CellType 13447 13452	hESCs
+T428	GeneProtein 5350 5354	Ki67
+T429	GeneProtein 11618 11622	Myf5
+T430	CellType 24801 24810	myofibers
+T431	CellType 15899 15904	hESCs
+T432	CellType 13284 13288	ASCs
+T433	GeneProtein 24769 24773	NuMA
+T434	CellComponent 24775 24781	nuclei
+T435	CellType 9057 9062	hESCs
+T436	GeneProtein 24793 24799	desmin
+T437	CellType 19652 19654	Mb
+T438	CellType 16344 16349	hMSCs
+T439	Species 11522 11527	mouse
+T440	Anatomy 14175 14183	myogenic
+T441	CellType 11504 11509	hESCs
+T442	Species 15796 15801	mouse
+T443	CellType 641 651	stem cells
+T444	CellType 24691 24706	mouse myofibers
+T445	CellType 19774 19779	hESCs
+T446	GeneProtein 25043 25049	desmin
+T447	CellType 19741 19756	satellite cells
+T448	GeneProtein 25377 25381	Oct4
+T449	Species 7248 7253	mouse
+T450	GeneProtein 25037 25041	NuMA
+T451	GeneProtein 25447 25451	Numa
+T452	Anatomy 9012 9017	niche
+T453	Anatomy 19705 19713	myogenic
+T454	CellComponent 23398 23404	nuclei
+T455	CellType 17479 17494	satellite cells
+T456	GeneProtein 7218 7222	Oct4
+T457	GeneProtein 7054 7058	Oct4
+T458	GeneProtein 6795 6799	Oct4
+T459	Anatomy 24153 24160	muscles
+T460	CellType 16110 16119	myoblasts
+T461	Anatomy 25499 25507	myogenic
+T462	Anatomy 9320 9328	myogenic
+T463	GeneProtein 13767 13773	desmin
+T464	GeneProtein 24969 24975	desmin
+T465	GeneProtein 16707 16713	desmin
+T466	CellType 16733 16742	myoblasts
+T467	Anatomy 4535 4545	blastocyst
+T468	Anatomy 19843 19851	myogenic
+T469	CellType 19811 19816	hESCs
+T470	CellComponent 24941 24948	nucleus
+T471	Anatomy 21700 21717	tibialis anterior
+T472	GeneProtein 5576 5580	Oct4
+T473	CellType 9305 9314	myofibers
+T474	GeneProtein 10757 10763	desmin
+T475	Anatomy 21605 21613	skeletal
+T476	Species 4939 4944	mouse
+T477	CellType 10765 10774	myoblasts
+T478	CellType 16327 16332	hESCs
+T479	GeneProtein 5448 5452	Oct4
+T480	CellType 14125 14144	mononucleated cells
+T481	CellType 14580 14611	multinucleated de novo myotubes
+T482	CellType 19917 19932	satellite cells
+T483	Species 5527 5532	mouse
+T484	CellType 24983 24992	myofibers
+T485	GeneProtein 9146 9152	desmin
+T486	GeneProtein 24963 24967	NuMA
+T487	Anatomy 24697 24705	myofiber
+T488	GeneProtein 16949 16953	NuMA
+T489	CellType 22381 22390	myofibers
+T490	CellType 20531 20536	hESCs
+T491	Species 8323 8328	mouse
+T492	GeneProtein 8714 8718	Oct4
+T493	CellType 20436 20451	satellite cells
+T494	CellComponent 14580 14594	multinucleated
+T495	CellComponent 8810 8816	nuclei
+T496	CellComponent 14874 14891	mitotic apparatus
+T497	GeneProtein 5928 5932	Oct4
+T498	CellType 16846 16857	mouse cells
+T499	CellType 13706 13711	hESCs
+T500	CellType 18495 18499	ASCs
+T501	CellType 4557 4567	germ cells
+T502	CellType 13347 13362	satellite cells
+T503	Species 21027 21032	mouse
+T504	CellType 1375 1390	satellite cells
+T505	Species 16980 16985	mouse
+T506	CellType 2824 2833	myofibers
+T507	GeneProtein 17019 17029	M-cadherin
+T508	GeneProtein 2594 2600	desmin
+T509	Species 9544 9549	mouse
+T510	Anatomy 17539 17547	myofiber
+T511	Anatomy 17278 17296	local muscle niche
+T512	CellType 23365 23374	myofibers
+T513	CellType 4955 4960	hESCs
+T514	CellType 4896 4906	stem cells
+T515	Species 5018 5023	mouse
+T516	CellType 23529 23538	myofibers
+T517	Anatomy 17404 17412	myogenic
+T518	GeneProtein 23243 23248	eMyHC
+T519	CellType 23416 23425	myofibers
+T520	CellType 4886 4906	embryonic stem cells

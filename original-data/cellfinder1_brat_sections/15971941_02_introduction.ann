@@ -1,0 +1,44 @@
+T1	Anatomy 1393 1404	mesenchymal
+T2	CellType 768 772	MSCs
+T3	CellType 710 720	osteoblast
+T4	Anatomy 621 638	paraxial mesoderm
+T5	Anatomy 630 638	mesoderm
+T6	Species 234 239	human
+T7	Anatomy 1428 1436	skeletal
+T8	CellType 744 766	Mesenchymal stem cells
+T9	CellType 30 47	pluripotent cells
+T10	CellType 250 255	hESCs
+T11	CellType 1330 1335	hESCs
+T12	Anatomy 65 80	inner cell mass
+T13	CellType 1651 1656	hESCs
+T14	Anatomy 808 819	bone marrow
+T15	CellType 1393 1416	mesenchymal derivatives
+T16	Anatomy 710 722	osteoblastic
+T17	Anatomy 1302 1313	mesenchymal
+T18	CellType 1302 1324	mesenchymal precursors
+T19	CellType 234 248	human ES cells
+T20	CellType 756 766	stem cells
+T21	CellType 1017 1021	MSCs
+T22	CellType 1437 1446	myoblasts
+T23	CellType 1314 1324	precursors
+T24	Anatomy 744 755	Mesenchymal
+T25	CellType 240 248	ES cells
+T26	CellType 1405 1416	derivatives
+T27	CellType 1164 1169	hESCs
+T28	Anatomy 88 98	blastocyst
+T29	Anatomy 825 839	adipose tissue
+T30	CellType 1473 1495	mesenchymal precursors
+T31	Anatomy 849 855	dermis
+T32	Anatomy 1578 1595	paraxial mesoderm
+T33	Anatomy 866 884	connective tissues
+T34	Anatomy 1587 1595	mesoderm
+T35	Anatomy 0 9	Embryonic
+T36	CellType 0 25	Embryonic stem (ES) cells
+T37	Species 346 351	human
+T38	CellType 1601 1609	ES cells
+T39	CellType 901 905	MSCs
+T40	CellType 1428 1446	skeletal myoblasts
+T41	Anatomy 1473 1484	mesenchymal
+T42	CellType 399 404	hESCs
+T43	Anatomy 533 539	neural
+T44	CellType 1485 1495	precursors

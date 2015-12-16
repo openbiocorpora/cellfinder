@@ -1,0 +1,30 @@
+T1	CellType 714 724	stem cells
+T2	Species 220 225	human
+T3	CellType 62 69	neurons
+T4	CellType 207 214	neurons
+T5	CellType 238 242	hSCs
+T6	CellType 1469 1486	PA6 stromal cells
+T7	GeneProtein 1520 1540	tyrosine hydroxylase
+T8	CellType 1550 1570	dopaminergic neurons
+T9	Anatomy 1197 1206	embryonic
+T10	CellType 10 26	Human stem cells
+T11	CellType 16 26	stem cells
+T12	CellType 336 343	neurons
+T13	CellType 2296 2304	neuronal
+T14	CellType 613 617	hSCs
+T15	CellType 645 652	neurons
+T16	Species 10 15	Human
+T17	CellType 740 747	neurons
+T18	CellType 226 236	stem cells
+T19	Species 1814 1819	human
+T20	Anatomy 1402 1410	neuronal
+T21	CellType 1473 1486	stromal cells
+T22	CellType 1219 1224	hESCs
+T23	CellType 1207 1217	stem cells
+T24	CellType 1191 1217	human embryonic stem cells
+T25	CellLine 1236 1240	SA02
+T26	CellLine 1469 1472	PA6
+T27	CellType 220 236	human stem cells
+T28	Anatomy 2296 2304	neuronal
+T29	CellType 765 772	neurons
+T30	Species 1191 1196	human

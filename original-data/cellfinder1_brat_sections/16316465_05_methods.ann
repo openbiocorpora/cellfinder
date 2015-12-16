@@ -1,0 +1,73 @@
+T1	CellType 399 414	mouse NSO cells
+T2	GeneProtein 4191 4194	IgG
+T3	GeneProtein 104 108	SOX2
+T4	Anatomy 661 674	mouse myeloma
+T5	Species 661 666	mouse
+T6	GeneProtein 113 118	SOX17
+T7	Species 709 713	mice
+T8	GeneProtein 241 246	PDX-1
+T9	CellType 1853 1865	feeder cells
+T10	CellLine 1246 1251	MCF-7
+T11	GeneProtein 181 186	GATA6
+T12	CellLine 1239 1244	MG-63
+T13	Species 2028 2033	human
+T14	Anatomy 2042 2052	aggregates
+T15	Anatomy 1779 1794	embryoid bodies
+T16	Species 3200 3205	mouse
+T17	GeneProtein 2111 2115	bFGF
+T18	Anatomy 2886 2889	EBs
+T19	CellType 1520 1528	ES cells
+T20	GeneProtein 61 66	GATA1
+T21	Species 1628 1633	human
+T22	GeneProtein 82 88	Oct3/4
+T23	Species 1265 1270	mouse
+T24	Species 1514 1519	human
+T25	CellLine 1271 1273	D3
+T26	Anatomy 1805 1813	colonies
+T27	Species 702 713	BALB/c mice
+T28	GeneProtein 49 59	E-Cadherin
+T29	Anatomy 1796 1799	EBs
+T30	GeneProtein 118 127	Brachyury
+T31	CellType 1802 1804	ES
+T32	CellType 1425 1431	ES cel
+T33	GeneProtein 1735 1739	bFGF
+T34	GeneProtein 161 166	GATA1
+T35	CellType 1265 1279	mouse D3 cells
+T36	CellType 2081 2083	ES
+T37	Species 1419 1424	human
+T38	GeneProtein 822 831	Protein G
+T39	Species 1061 1066	goats
+T40	GeneProtein 90 95	PDX-1
+T41	GeneProtein 141 146	DPPA5
+T42	GeneProtein 375 380	PODXL
+T43	GeneProtein 363 373	E-Cadherin
+T44	Species 399 404	mouse
+T45	CellLine 1454 1458	UC06
+T46	CellLine 1438 1443	HSF-6
+T47	CellType 1634 1636	ES
+T48	GeneProtein 97 102	PODXL
+T49	Anatomy 1903 1910	culture
+T50	CellType 1900 1902	ES
+T51	CellLine 1253 1260	NTERA-2
+T52	Species 4185 4190	mouse
+T53	Anatomy 3382 3385	EBs
+T54	GeneProtein 283 288	SOX17
+T55	GeneProtein 260 264	SOX2
+T56	GeneProtein 3219 3222	IgG
+T57	GeneProtein 358 361	CD9
+T58	GeneProtein 44 47	CD9
+T59	GeneProtein 26 35	Brachyury
+T60	GeneProtein 37 42	DPPA5
+T61	Species 3039 3045	donkey
+T62	CellType 405 414	NSO cells
+T63	Anatomy 1961 1968	culture
+T64	CellType 680 687	B cells
+T65	GeneProtein 766 769	IgG
+T66	Anatomy 2011 2014	EBs
+T67	Species 1225 1230	Human
+T68	CellLine 1231 1237	Caco-2
+T69	GeneProtein 221 227	Oct3/4
+T70	CellType 1849 1852	MEF
+T71	GeneProtein 200 205	Nanog
+T72	GeneProtein 68 73	GATA6
+T73	GeneProtein 75 80	Nanog

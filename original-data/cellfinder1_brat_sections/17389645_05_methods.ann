@@ -1,0 +1,55 @@
+T1	CellComponent 5532 5535	DNA
+T2	CellComponent 5957 5961	mRNA
+T3	CellComponent 2490 2493	DNA
+T4	CellComponent 4789 4792	DNA
+T5	CellComponent 2431 2434	DNA
+T6	CellComponent 5673 5676	DNA
+T7	CellComponent 2273 2276	DNA
+T8	CellComponent 1764 1770	nuclei
+T9	Species 5985 5990	human
+T10	GeneProtein 511 515	FGF2
+T11	CellType 567 570	hES
+T12	Species 5129 5134	mouse
+T13	GeneProtein 2558 2571	T4 polymerase
+T14	GeneProtein 2625 2638	T4 polymerase
+T15	Species 5053 5058	human
+T16	GeneProtein 5997 6001	CD34
+T17	CellComponent 5447 5450	DNA
+T18	GeneProtein 5214 5218	TAL1
+T19	CellComponent 3913 3916	DNA
+T20	GeneProtein 3736 3755	Vent exo-polymerase
+T21	GeneProtein 864 872	protease
+T22	GeneProtein 1107 1113	DNaseI
+T23	CellComponent 5793 5796	DNA
+T24	CellComponent 1193 1199	nuclei
+T25	GeneProtein 1327 1333	DNaseI
+T26	CellComponent 3413 3416	DNA
+T27	Anatomy 414 423	embryonic
+T28	CellComponent 2234 2237	DNA
+T29	CellComponent 2677 2680	DNA
+T30	GeneProtein 5925 5932	β-actin
+T31	CellType 408 434	Human embryonic stem cells
+T32	CellComponent 390 396	nuclei
+T33	CellType 172 182	thymocytes
+T34	CellComponent 5844 5848	mRNA
+T35	GeneProtein 5870 5874	TAL1
+T36	CellType 567 576	hES cells
+T37	Anatomy 260 272	thymus gland
+T38	Species 408 413	Human
+T39	GeneProtein 499 506	Activin
+T40	GeneProtein 5879 5883	STIL
+T41	CellComponent 2082 2085	DNA
+T42	Species 5236 5241	mouse
+T43	CellComponent 615 621	Nuclei
+T44	CellComponent 3035 3038	DNA
+T45	CellComponent 2848 2851	DNA
+T46	CellType 5997 6008	CD34 + cell
+T47	CellType 414 433	embryonic stem cell
+T48	CellComponent 3638 3641	DNA
+T49	GeneProtein 1986 1992	RNaseA
+T50	CellComponent 3546 3549	DNA
+T51	GeneProtein 1882 1894	proteinase K
+T52	GeneProtein 1450 1456	DNaseI
+T53	Species 5226 5231	human
+T54	GeneProtein 1588 1594	DNaseI
+T55	CellType 436 439	hES

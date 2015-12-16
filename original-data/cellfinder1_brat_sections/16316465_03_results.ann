@@ -1,0 +1,289 @@
+T1	Anatomy 71 74	EBs
+T2	CellType 4941 4944	EBs
+T3	Species 4747 4752	human
+T4	GeneProtein 4189 4199	E-Cadherin
+T5	Species 2224 2229	human
+T6	CellType 2230 2238	ES cells
+T7	Anatomy 2258 2261	EBs
+T8	CellType 7182 7184	ES
+T9	CellComponent 2887 2908	extracellular epitope
+T10	Species 908 913	mouse
+T11	CellLine 3296 3303	NTERA-2
+T12	Species 1424 1429	mouse
+T13	Species 6980 6985	human
+T14	GeneProtein 4214 4219	PODXL
+T15	GeneProtein 7625 7636	Mouse IgG2A
+T16	GeneProtein 4421 4424	FGF
+T17	Anatomy 5372 5375	EBs
+T18	CellType 4474 4482	ES cells
+T19	Species 919 924	human
+T20	GeneProtein 1475 1480	GATA6
+T21	GeneProtein 1774 1779	DPPA5
+T22	GeneProtein 714 719	GATA1
+T23	Species 6605 6610	mouse
+T24	Species 7625 7630	Mouse
+T25	CellType 4747 4761	human ES cells
+T26	Species 592 597	mouse
+T27	GeneProtein 609 619	E-Cadherin
+T28	CellType 5455 5458	EBs
+T29	GeneProtein 624 629	PODXL
+T30	Species 708 713	human
+T31	GeneProtein 631 647	podocalyxin-like
+T32	CellLine 3411 3417	β-TC-6
+T33	CellType 1430 1432	ES
+T34	GeneProtein 3366 3369	CD9
+T35	CellType 1480 1490	Caco2 cell
+T36	GeneProtein 721 743	GATA binding protein 1
+T37	GeneProtein 7325 7330	GATA6
+T38	CellType 6463 6465	ES
+T39	GeneProtein 1676 1686	E-Cadherin
+T40	CellLine 1182 1189	NTERA-2
+T41	CellType 2224 2238	human ES cells
+T42	GeneProtein 2444 2449	DPPA5
+T43	GeneProtein 6317 6322	G3PDH
+T44	GeneProtein 7302 7307	DPPA5
+T45	CellType 5968 5976	EB cells
+T46	Anatomy 6074 6084	germ layer
+T47	GeneProtein 3111 3115	SOX2
+T48	Anatomy 4842 4850	mesoderm
+T49	Species 7580 7585	Mouse
+T50	CellLine 1480 1485	Caco2
+T51	GeneProtein 6130 6135	FoxA2
+T52	GeneProtein 2357 2362	PODXL
+T53	CellLine 3341 3346	MCF-7
+T54	CellComponent 3903 3910	nuclear
+T55	GeneProtein 4982 4991	Brachyury
+T56	GeneProtein 7538 7547	Rat IgG2B
+T57	GeneProtein 7439 7450	Mouse IgG2B
+T58	Anatomy 4794 4802	endoderm
+T59	GeneProtein 5153 5162	Brachyury
+T60	Species 1234 1239	human
+T61	Species 37 42	human
+T62	CellType 5270 5280	precursors
+T63	CellType 5372 5375	EBs
+T64	Species 5694 5699	human
+T65	Species 1157 1162	human
+T66	GeneProtein 4024 4029	Nanog
+T67	GeneProtein 4975 4980	PDX-1
+T68	Species 5796 5801	human
+T69	GeneProtein 7405 7409	SOX1
+T70	GeneProtein 2841 2851	E-Cadherin
+T71	CellType 2541 2555	human ES cells
+T72	Species 4130 4135	Human
+T73	GeneProtein 4831 4836	PDX-1
+T74	Species 536 541	human
+T75	GeneProtein 5700 5705	GATA6
+T76	Species 4907 4912	human
+T77	GeneProtein 925 931	Oct3/4
+T78	CellType 4907 4921	human ES cells
+T79	Anatomy 3563 3566	EBs
+T80	CellType 4034 4037	EBs
+T81	GeneProtein 3854 3859	Nanog
+T82	Anatomy 4034 4037	EBs
+T83	CellLine 1580 1589	TC 6 cell
+T84	Species 3848 3853	human
+T85	GeneProtein 3808 3813	PODXL
+T86	GeneProtein 1537 1542	Oct 3
+T87	GeneProtein 2451 2490	developmental pluripotency associated 5
+T88	GeneProtein 1415 1424	Brachyury
+T89	CellType 6564 6572	ES cells
+T90	CellType 4092 4100	EB cells
+T91	GeneProtein 4048 4052	SOX2
+T92	Anatomy 4794 4804	endodermal
+T93	CellType 1615 1617	ES
+T94	GeneProtein 5299 5302	FGF
+T95	Species 6885 6890	mouse
+T96	GeneProtein 3004 3010	Oct3/4
+T97	GeneProtein 7542 7547	IgG2B
+T98	GeneProtein 2856 2861	PODXL
+T99	CellType 3156 3172	progenitor cells
+T100	Anatomy 5290 5293	EBs
+T101	GeneProtein 7586 7591	IgG2A
+T102	CellType 5259 5280	mesodermal precursors
+T103	GeneProtein 7612 7616	SOX2
+T104	Anatomy 6617 6627	endodermal
+T105	Species 7538 7541	Rat
+T106	Anatomy 6611 6616	fetal
+T107	GeneProtein 7568 7573	PODXL
+T108	GeneProtein 7525 7530	GATA1
+T109	GeneProtein 3721 3725	SOX2
+T110	Species 5903 5908	human
+T111	GeneProtein 1571 1579	PDX1beta
+T112	CellType 4496 4517	germ layer precursors
+T113	Species 6579 6584	mouse
+T114	CellLine 1716 1726	MCF-7 cell
+T115	CellType 6558 6572	mouse ES cells
+T116	CellType 2258 2261	EBs
+T117	CellLine 6585 6587	D3
+T118	GeneProtein 2836 2839	CD9
+T119	GeneProtein 7279 7288	Brachyury
+T120	GeneProtein 7364 7371	Oct 3/4
+T121	Anatomy 4941 4944	EBs
+T122	GeneProtein 4961 4966	SOX17
+T123	Species 468 473	Human
+T124	CellType 37 51	human ES cells
+T125	Species 2407 2412	human
+T126	GeneProtein 542 545	CD9
+T127	GeneProtein 1604 1609	SOX17
+T128	CellType 1575 1589	beta-TC 6 cell
+T129	Anatomy 474 490	peripheral blood
+T130	Anatomy 5244 5254	endodermal
+T131	GeneProtein 3284 3288	SOX2
+T132	CellType 5040 5054	human ES cells
+T133	GeneProtein 4996 5001	GATA1
+T134	GeneProtein 5909 5914	GATA1
+T135	GeneProtein 3012 3022	E-Cadherin
+T136	Species 2541 2546	human
+T137	CellType 2547 2555	ES cells
+T138	CellComponent 5634 5641	nuclear
+T139	GeneProtein 5338 5343	PDX-1
+T140	GeneProtein 3399 3404	PDX-1
+T141	GeneProtein 2331 2337	Oct3/4
+T142	CellType 3377 3381	PBMC
+T143	Anatomy 6108 6116	endoderm
+T144	GeneProtein 3365 3369	hCD9
+T145	CellType 3411 3422	β-TC-6 cell
+T146	GeneProtein 1860 1866	GATA-1
+T147	CellType 3341 3351	MCF-7 cell
+T148	CellType 1646 1650	PBMC
+T149	CellComponent 5737 5744	nuclear
+T150	GeneProtein 1658 1664	GATA-1
+T151	Anatomy 4136 4145	embryonic
+T152	Anatomy 6137 6145	mesoderm
+T153	GeneProtein 1571 1575	PDX1
+T154	CellLine 1575 1584	beta-TC 6
+T155	GeneProtein 1505 1510	Nanog
+T156	GeneProtein 4814 4819	SOX17
+T157	GeneProtein 3679 3685	Oct3/4
+T158	GeneProtein 3034 3039	Nanog
+T159	GeneProtein 5168 5173	GATA1
+T160	GeneProtein 3024 3029	PODXL
+T161	Anatomy 5455 5458	EBs
+T162	CellType 4130 4156	Human embryonic stem cells
+T163	GeneProtein 4175 4178	CD9
+T164	GeneProtein 6154 6159	Hand1
+T165	GeneProtein 3993 3999	Oct3/4
+T166	Species 3673 3678	human
+T167	CellComponent 491 500	platelets
+T168	GeneProtein 4821 4826	GATA6
+T169	CellType 3563 3566	EBs
+T170	GeneProtein 7424 7427	CD9
+T171	CellLine 3411 3421	β-TC-6 cel
+T172	CellType 5046 5054	ES cells
+T173	CellType 6305 6307	ES
+T174	Species 6457 6462	mouse
+T175	CellType 3521 3529	ES cells
+T176	Species 3515 3520	human
+T177	CellType 3149 3172	neural progenitor cells
+T178	GeneProtein 4001 4011	E-Cadherin
+T179	Species 6558 6563	mouse
+T180	CellType 6457 6465	mouse ES
+T181	Anatomy 5259 5269	mesodermal
+T182	Species 3791 3796	mouse
+T183	GeneProtein 4013 4018	PODXL
+T184	Species 3802 3807	human
+T185	Species 7439 7444	Mouse
+T186	GeneProtein 7499 7504	IgG2B
+T187	Species 697 702	mouse
+T188	GeneProtein 7344 7349	Nanog
+T189	GeneProtein 7405 7410	SOX17
+T190	GeneProtein 7445 7450	IgG2B
+T191	GeneProtein 7387 7392	PDX-1
+T192	GeneProtein 7631 7636	IgG2A
+T193	GeneProtein 4876 4881	GATA1
+T194	CellComponent 2710 2731	extracellular epitope
+T195	CellType 3296 3308	NTERA-2 cell
+T196	Species 5040 5045	human
+T197	Anatomy 4842 4852	mesodermal
+T198	GeneProtein 3264 3269	Nanog
+T199	GeneProtein 3323 3333	E-Cadherin
+T200	CellComponent 5843 5850	nuclear
+T201	CellType 6074 6089	germ layer cell
+T202	GeneProtein 6161 6165	MSX1
+T203	GeneProtein 6125 6128	AFP
+T204	GeneProtein 3762 3772	E-Cadherin
+T205	Anatomy 6170 6178	ectoderm
+T206	GeneProtein 7580 7591	Mouse IgG2A
+T207	GeneProtein 2367 2372	Nanog
+T208	GeneProtein 2339 2343	SOX2
+T209	Species 6656 6661	mouse
+T210	Species 3756 3761	human
+T211	CellLine 556 561	MCF-7
+T212	GeneProtein 4862 4871	Brachyury
+T213	CellLine 1510 1517	NTERA-2
+T214	CellType 43 51	ES cells
+T215	GeneProtein 5137 5142	SOX17
+T216	CellType 1609 1617	mouse ES
+T217	GeneProtein 1240 1245	Nanog
+T218	GeneProtein 1261 1267	Oct3/4
+T219	GeneProtein 6675 6681	Oct3/4
+T220	GeneProtein 2345 2355	E-Cadherin
+T221	Species 1255 1260	human
+T222	CellType 2413 2421	ES cells
+T223	Species 6866 6871	mouse
+T224	GeneProtein 6929 6934	Nanog
+T225	Species 6939 6944	mouse
+T226	GeneProtein 6950 6955	PODXL
+T227	GeneProtein 1643 1646	CD9
+T228	CellType 1510 1522	NTERA-2 cell
+T229	Species 798 803	mouse
+T230	Species 809 814	human
+T231	CellLine 870 877	NTERA-2
+T232	CellComponent 2623 2631	membrane
+T233	Species 6720 6725	mouse
+T234	Species 1609 1614	mouse
+T235	GeneProtein 6710 6715	SOX17
+T236	GeneProtein 5802 5811	brachyury
+T237	GeneProtein 5589 5594	SOX17
+T238	CellType 2407 2421	human ES cells
+T239	Species 5892 5897	mouse
+T240	Species 3715 3720	human
+T241	GeneProtein 1741 1745	SOX2
+T242	CellLine 755 763	Beta-TC6
+T243	Species 5583 5588	human
+T244	GeneProtein 6896 6906	E-cadherin
+T245	GeneProtein 6731 6735	SOX2
+T246	Species 6778 6783	mouse
+T247	GeneProtein 6693 6698	PDX-1
+T248	GeneProtein 7493 7504	Mouse IgG2B
+T249	Species 7493 7498	Mouse
+T250	GeneProtein 7471 7481	E-cadherin
+T251	CellType 3515 3529	human ES cells
+T252	GeneProtein 1537 1544	Oct 3/4
+T253	Species 603 608	human
+T254	CellType 1544 1556	NTERA-2 cell
+T255	CellLine 1544 1551	NTERA-2
+T256	CellLine 661 666	MG-63
+T257	GeneProtein 1458 1463	DPPA5
+T258	CellLine 1106 1112	Caco-2
+T259	GeneProtein 1163 1168	GATA6
+T260	GeneProtein 6186 6190	Msl1
+T261	CellType 6579 6595	mouse D3 ES cell
+T262	Species 3704 3709	mouse
+T263	GeneProtein 936 940	SOX2
+T264	CellLine 1686 1691	MCF-7
+T265	GeneProtein 942 972	sex-determining region Y-box 2
+T266	Species 7226 7231	mouse
+T267	CellType 4136 4155	embryonic stem cell
+T268	GeneProtein 5145 5150	GATA6
+T269	CellType 1716 1726	MCF-7 cell
+T270	GeneProtein 3246 3252	Oct3/4
+T271	Anatomy 3076 3079	EBs
+T272	CellLine 1686 1696	MCF-7 cell
+T273	Anatomy 3149 3155	neural
+T274	CellLine 1480 1490	Caco2 cell
+T275	CellType 1424 1432	mouse ES
+T276	GeneProtein 1711 1716	PODXL
+T277	CellLine 1716 1721	MCF-7
+T278	CellType 5109 5117	ES cells
+T279	CellType 1686 1696	MCF-7 cell
+T280	CellType 1745 1757	NTERA-2 cell
+T281	GeneProtein 4968 4973	GATA6
+T282	CellLine 1745 1752	NTERA-2
+T283	Species 525 530	mouse
+T284	GeneProtein 828 858	pancreatic duodenal homeobox-1
+T285	GeneProtein 821 826	PDX-1
+T286	Species 6919 6923	Goat
+T287	Species 815 820	mouse
+T288	GeneProtein 6877 6880	CD9
+T289	Species 6814 6819	human

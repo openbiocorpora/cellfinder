@@ -1,0 +1,105 @@
+T1	Anatomy 2059 2076	adult human brain
+T2	CellType 1670 1673	NPs
+T3	Anatomy 1928 1932	head
+T4	Anatomy 5862 5875	neuroectoderm
+T5	CellType 6374 6379	hESCs
+T6	Anatomy 2071 2076	brain
+T7	CellType 1071 1076	hESCs
+T8	CellType 700 705	hESCs
+T9	Anatomy 2090 2096	cortex
+T10	CellType 6328 6333	hESCs
+T11	CellType 2233 2237	NPCs
+T12	CellType 2318 2322	NPCs
+T13	CellType 1159 1163	glia
+T14	CellType 1338 1342	glia
+T15	Species 2341 2346	human
+T16	CellType 5819 5824	hESCs
+T17	CellComponent 6553 6558	mRNAs
+T18	CellType 711 727	pluripotent cell
+T19	CellType 2520 2540	astrocyte precursors
+T20	Anatomy 1992 2003	fetal brain
+T21	CellType 2482 2492	fetal NPCs
+T22	Anatomy 1986 2003	human fetal brain
+T23	CellType 2520 2529	astrocyte
+T24	CellType 2488 2492	NPCs
+T25	CellType 5511 5516	hESCs
+T26	Anatomy 5997 6006	hCNS-SCns
+T27	Anatomy 172 180	neuronal
+T28	Anatomy 5862 5877	neuroectodermal
+T29	CellType 96 113	neural stem cells
+T30	CellType 5934 5973	human central nervous system stem cells
+T31	Anatomy 154 165	neural tube
+T32	Species 4332 4337	human
+T33	CellType 5929 5932	NPs
+T34	CellType 2510 2515	hESCs
+T35	Anatomy 4498 4511	hematopoietic
+T36	Anatomy 2140 2143	SVZ
+T37	GeneProtein 5847 5851	Sox1
+T38	Anatomy 2152 2170	lateral ventricles
+T39	Anatomy 1998 2003	brain
+T40	Anatomy 5940 5962	central nervous system
+T41	CellType 4498 4522	hematopoietic stem cells
+T42	CellType 6339 6342	NPs
+T43	CellType 1960 1964	NPCs
+T44	Species 1025 1030	human
+T45	Anatomy 5453 5460	embryos
+T46	CellType 5940 5972	central nervous system stem cell
+T47	Anatomy 3446 3451	brain
+T48	Anatomy 2065 2076	human brain
+T49	CellComponent 2780 2783	RNA
+T50	Species 3053 3058	human
+T51	Anatomy 3419 3427	neuronal
+T52	CellType 6057 6060	NPs
+T53	Anatomy 2615 2620	fetal
+T54	Anatomy 5983 5995	neurospheres
+T55	Anatomy 1031 1040	embryonic
+T56	CellType 2621 2625	NPCs
+T57	CellType 3419 3433	neuronal cells
+T58	Species 2065 2070	human
+T59	CellType 1147 1154	neurons
+T60	Species 1986 1991	human
+T61	CellType 1951 1955	NSCs
+T62	Anatomy 2119 2138	subventricular zone
+T63	Anatomy 2098 2109	hippocampus
+T64	Species 3865 3870	human
+T65	Anatomy 1992 1997	fetal
+T66	Species 3769 3774	human
+T67	Species 4883 4888	human
+T68	Species 5934 5939	human
+T69	CellType 5830 5833	NPs
+T70	CellType 61 78	neuronal subtypes
+T71	CellType 115 119	NSCs
+T72	CellType 2615 2625	fetal NPCs
+T73	CellType 2676 2681	hESCs
+T74	Anatomy 2640 2652	neurospheres
+T75	CellType 1608 1613	hESCs
+T76	CellType 1652 1668	progenitor cells
+T77	CellType 3622 3636	neuronal cells
+T78	CellType 1325 1333	neuronal
+T79	Anatomy 3622 3630	neuronal
+T80	Anatomy 4484 4493	embryonic
+T81	GeneProtein 3494 3546	neural-specific polypyrimidine tract binding protein
+T82	Anatomy 61 69	neuronal
+T83	CellType 1310 1313	NPs
+T84	Anatomy 678 687	embryonic
+T85	CellType 5535 5538	NPs
+T86	Anatomy 552 560	neuronal
+T87	Species 672 677	Human
+T88	CellComponent 432 435	RNA
+T89	Species 4 9	human
+T90	CellType 1290 1308	neural progenitors
+T91	Anatomy 603 611	neuronal
+T92	Anatomy 4 32	human central nervous system
+T93	CellType 1262 1267	hESCs
+T94	CellType 1643 1647	NSCs
+T95	CellType 1338 1352	glial subtypes
+T96	CellType 5358 5361	NPs
+T97	CellType 5348 5353	hESCs
+T98	CellType 672 698	Human embryonic stem cells
+T99	CellType 894 899	hESCs
+T100	Anatomy 2482 2487	fetal
+T101	Anatomy 2341 2363	human embryonic cortex
+T102	Anatomy 10 32	central nervous system
+T103	CellType 5997 6004	hCNS-SC
+T104	GeneProtein 3548 3552	nPTB
+T105	GeneProtein 3446 3481	brain-specific splicing factor Nova

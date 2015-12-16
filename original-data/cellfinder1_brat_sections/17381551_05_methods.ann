@@ -1,0 +1,127 @@
+T1	CellComponent 9149 9155	Nuclei
+T2	CellType 509 524	satellite cells
+T3	GeneProtein 7573 7578	eMyHC
+T4	GeneProtein 7919 7923	Ki67
+T5	Species 649 653	mice
+T6	CellType 2212 2221	myoblasts
+T7	Species 1652 1656	mice
+T8	Anatomy 1737 1750	gastrocnemius
+T9	Anatomy 1773 1780	muscles
+T10	CellType 1601 1613	primary cell
+T11	Anatomy 753 770	tibialis anterior
+T12	Anatomy 5026 5034	myofiber
+T13	Species 8372 8378	murine
+T14	GeneProtein 7524 7530	desmin
+T15	Anatomy 2517 2528	mesenchymal
+T16	GeneProtein 1869 1889	Collagenase Type IIA
+T17	GeneProtein 8402 8406	NuMA
+T18	Anatomy 1755 1772	tibialis anterior
+T19	CellType 8411 8422	human cells
+T20	CellType 4966 4971	hESCs
+T21	Species 5122 5127	mouse
+T22	CellType 3437 3458	mesenchymal stem cell
+T23	CellType 3560 3565	hESCs
+T24	Anatomy 4079 4087	myofiber
+T25	CellType 5059 5074	satellite cells
+T26	Anatomy 2503 2512	embryonic
+T27	CellComponent 8079 8082	DNA
+T28	Anatomy 1755 1779	tibialis anterior muscle
+T29	CellType 3006 3010	MEFs
+T30	Anatomy 6797 6812	intraperitoneal
+T31	Anatomy 6696 6703	muscles
+T32	Anatomy 6678 6695	tibialis anterior
+T33	Species 6721 6725	mice
+T34	CellType 2991 2996	hESCs
+T35	CellLine 2592 2596	WA07
+T36	CellType 3412 3417	hMSCs
+T37	CellType 3839 3844	hESCs
+T38	CellType 3570 3575	hMSCs
+T39	CellType 4507 4512	hESCs
+T40	CellType 2913 2919	feeder
+T41	CellType 8251 8256	hESCs
+T42	CellType 2814 2819	hESCs
+T43	CellType 3205 3211	Feeder
+T44	CellType 6608 6613	hESCs
+T45	GeneProtein 3185 3190	hbFGF
+T46	CellType 2934 2940	feeder
+T47	GeneProtein 2043 2047	bFGF
+T48	CellType 3329 3334	hESCs
+T49	CellType 7096 7127	myofiber-derived precursor cell
+T50	Anatomy 5900 5908	myofiber
+T51	Anatomy 7096 7104	myofiber
+T52	Anatomy 1025 1029	limb
+T53	Anatomy 1564 1572	Myofiber
+T54	Species 5132 5136	huma
+T55	CellLine 2580 2582	H7
+T56	CellType 2517 2538	mesenchymal stem cell
+T57	Anatomy 4418 4427	embryonic
+T58	Anatomy 4418 4438	embryonic microniche
+T59	CellType 6381 6386	hESCs
+T60	CellType 6463 6468	hMSCs
+T61	CellType 4732 4737	hMSCs
+T62	Anatomy 6678 6702	tibialis anterior muscle
+T63	CellType 2459 2468	myoblasts
+T64	CellType 6617 6622	hMSCs
+T65	Anatomy 6660 6673	gastrocnemius
+T66	Anatomy 789 796	muscles
+T67	Anatomy 1020 1029	hind limb
+T68	Species 8281 8286	mouse
+T69	Anatomy 4808 4816	myofiber
+T70	Anatomy 3437 3448	mesenchymal
+T71	CellType 6152 6156	MEFs
+T72	GeneProtein 8357 8367	M-cadherin
+T73	CellType 2436 2444	myotubes
+T74	GeneProtein 9695 9699	NuMA
+T75	GeneProtein 9603 9613	M-cadherin
+T76	GeneProtein 9801 9806	eMyHC
+T77	CellType 5654 5679	activated satellite cells
+T78	Anatomy 1030 1037	muscles
+T79	CellType 5977 5992	Satellite cells
+T80	GeneProtein 9886 9890	Myf5
+T81	GeneProtein 7478 7482	Myf5
+T82	GeneProtein 3295 3300	hbFGF
+T83	GeneProtein 6317 6324	Dispase
+T84	GeneProtein 7483 7487	Pax7
+T85	Anatomy 6038 6046	myofiber
+T86	Anatomy 4649 4657	myofiber
+T87	Species 5220 5225	mouse
+T88	CellType 5664 5679	satellite cells
+T89	CellType 1218 1229	blood cells
+T90	Species 1177 1181	mice
+T91	Anatomy 4544 4552	myofiber
+T92	Anatomy 1218 1223	blood
+T93	CellType 5861 5876	satellite cells
+T94	CellType 5737 5752	satellite cells
+T95	CellType 8281 8292	mouse cells
+T96	CellType 7415 7426	mouse cells
+T97	CellType 4329 4334	hESCs
+T98	CellType 4244 4249	hESCs
+T99	CellType 4108 4113	hESCs
+T100	CellType 4849 4864	satellite cells
+T101	CellType 7854 7869	quiescent cells
+T102	CellComponent 7768 7774	nuclei
+T103	GeneProtein 7788 7792	Ki67
+T104	CellComponent 7815 7822	nuclear
+T105	CellType 3849 3854	hMSCs
+T106	GeneProtein 6513 6520	Trypsin
+T107	CellType 4715 4720	hESCs
+T108	Species 48 52	mice
+T109	GeneProtein 9906 9910	Pax7
+T110	Species 183 187	mice
+T111	GeneProtein 10070 10075	FK506
+T112	GeneProtein 9487 9491	Oct4
+T113	GeneProtein 9528 9532	Ki67
+T114	Anatomy 1152 1157	blood
+T115	GeneProtein 9503 9507	BrdU
+T116	GeneProtein 9984 9990	Desmin
+T117	Anatomy 454 460	Muscle
+T118	GeneProtein 6222 6241	Collagenase Type IV
+T119	CellType 6132 6137	hESCs
+T120	Species 2372 2377	horse
+T121	CellType 7404 7409	hESCs
+T122	Anatomy 775 788	gastrocnemius
+T123	CellType 2312 2320	Myoblast
+T124	CellType 2204 2221	primary myoblasts
+T125	Species 7415 7420	mouse
+T126	Anatomy 7446 7454	myogenic
+T127	GeneProtein 8438 8442	Oct4

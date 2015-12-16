@@ -1,0 +1,59 @@
+T1	CellLine 1452 1456	SD56
+T2	CellLine 1239 1243	SD56
+T3	CellType 334 339	hNSCs
+T4	CellType 1279 1289	astrocytes
+T5	Anatomy 1616 1622	brains
+T6	Anatomy 1107 1115	endoderm
+T7	Anatomy 1095 1103	mesoderm
+T8	GeneProtein 1051 1056	Nanog
+T9	GeneProtein 766 799	leukemia inhibitory growth factor
+T10	CellType 488 498	stem cells
+T11	CellType 1889 1899	stem cells
+T12	GeneProtein 955 963	vimentin
+T13	CellType 1159 1164	hNSCs
+T14	Anatomy 1962 1968	tumors
+T15	CellType 623 628	hNSCs
+T16	CellType 1871 1899	SD56 human neural stem cells
+T17	CellType 1648 1653	hNSCs
+T18	Anatomy 1882 1888	neural
+T19	Species 1876 1881	human
+T20	CellLine 1871 1875	SD56
+T21	Anatomy 1735 1745	parenchyma
+T22	Anatomy 16 25	embryonic
+T23	CellType 26 36	stem cells
+T24	Species 10 15	Human
+T25	CellLine 636 640	SD56
+T26	CellType 647 652	hESCs
+T27	CellType 1239 1249	SD56 hNSCs
+T28	Anatomy 83 89	neural
+T29	GeneProtein 756 760	bFGF
+T30	CellType 931 935	NSCs
+T31	CellType 813 818	hNSCs
+T32	Anatomy 1627 1633	flanks
+T33	GeneProtein 801 804	LIF
+T34	GeneProtein 947 953	nestin
+T35	CellType 975 980	glial
+T36	Anatomy 2112 2118	neural
+T37	CellType 996 1001	hNSCs
+T38	GeneProtein 1043 1047	Oct4
+T39	Anatomy 161 167	Neural
+T40	GeneProtein 718 721	EGF
+T41	CellType 2112 2124	neural cells
+T42	GeneProtein 724 754	basic fibroblast growth factor
+T43	GeneProtein 693 716	epidermal growth factor
+T44	CellType 1244 1249	hNSCs
+T45	CellType 83 95	neural cells
+T46	CellType 38 43	hESCs
+T47	CellType 10 36	Human embryonic stem cells
+T48	CellType 1270 1277	neurons
+T49	Species 309 314	human
+T50	Anatomy 315 321	neural
+T51	CellType 322 332	stem cells
+T52	CellType 194 199	hESCs
+T53	CellType 315 330	neural stem cel
+T54	CellType 1882 1898	neural stem cell
+T55	Anatomy 1729 1745	brain parenchyma
+T56	CellType 1294 1310	oligodendrocytes
+T57	CellType 161 173	Neural cells
+T58	CellType 309 332	human neural stem cells
+T59	CellType 968 979	radial glia

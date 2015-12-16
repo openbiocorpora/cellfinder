@@ -1,0 +1,130 @@
+T1	CellComponent 421 427	nuclei
+T2	Anatomy 7638 7645	myeloid
+T3	GeneProtein 3950 3954	TAL1
+T4	CellType 7327 7336	hES cells
+T5	GeneProtein 3841 3847	DNaseI
+T6	GeneProtein 5148 5152	TAL1
+T7	CellType 2919 2935	mouse thymocytes
+T8	CellLine 5170 5174	K562
+T9	GeneProtein 7842 7864	+50 erythroid enhancer
+T10	CellType 5162 5165	hES
+T11	Species 7912 7917	mouse
+T12	Species 8039 8044	human
+T13	Anatomy 7951 7956	liver
+T14	CellType 6029 6053	haematopoietic stem cell
+T15	CellType 5331 5356	embryonic stem (hES) cell
+T16	CellType 3214 3226	BW5147 cells
+T17	CellType 5170 5180	K562 cells
+T18	CellComponent 72 78	Nuclei
+T19	CellType 3987 3997	K562 cells
+T20	Species 6166 6171	mouse
+T21	CellLine 7657 7661	K562
+T22	Species 1864 1869	mouse
+T23	GeneProtein 5309 5313	TAL1
+T24	GeneProtein 6321 6325	STIL
+T25	GeneProtein 6256 6260	STIL
+T26	Species 2030 2035	mouse
+T27	CellComponent 8680 8689	chromatin
+T28	GeneProtein 3375 3381	DNaseI
+T29	CellLine 3214 3220	BW5147
+T30	CellType 8179 8189	K562 cells
+T31	Species 2181 2186	mouse
+T32	GeneProtein 2888 2892	Hmbs
+T33	GeneProtein 2716 2720	Stil
+T34	CellLine 3987 3991	K562
+T35	GeneProtein 8365 8371	DNaseI
+T36	GeneProtein 8427 8431	TAL1
+T37	GeneProtein 2036 2040	Stil
+T38	Anatomy 7944 7956	foetal liver
+T39	Anatomy 5647 5660	embryogenesis
+T40	GeneProtein 1228 1234	DNaseI
+T41	Anatomy 5629 5635	embryo
+T42	CellType 7912 7933	mouse erythroid cells
+T43	GeneProtein 243 249	RNaseA
+T44	CellType 4570 4580	K562 cells
+T45	Anatomy 6209 6217	neuronal
+T46	Anatomy 5331 5340	embryonic
+T47	CellLine 4570 4574	K562
+T48	CellType 2925 2935	thymocytes
+T49	Species 2944 2949	mouse
+T50	CellType 5347 5350	hES
+T51	CellType 7657 7667	K562 cells
+T52	Species 5325 5330	human
+T53	CellType 7730 7739	erythroid
+T54	CellType 8435 8444	hES cells
+T55	GeneProtein 2594 2600	DNaseI
+T56	GeneProtein 3946 3949	SCL
+T57	CellType 7277 7287	K562 cells
+T58	GeneProtein 4437 4441	STIL
+T59	Anatomy 5832 5843	endothelium
+T60	GeneProtein 6085 6120	endothelial-haematopoietic enhancer
+T61	GeneProtein 4003 4008	BglII
+T62	Anatomy 5699 5733	non-lymphoid haematopoietic system
+T63	GeneProtein 157 163	DNaseI
+T64	GeneProtein 6139 6157	erythroid enhancer
+T65	Species 8576 8581	mouse
+T66	CellLine 2962 2968	BW5147
+T67	Species 6180 6185	human
+T68	CellType 8085 8094	hES cells
+T69	Species 2919 2924	mouse
+T70	Anatomy 5848 5853	brain
+T71	CellType 2944 2956	mouse T-cell
+T72	GeneProtein 6029 6062	haematopoietic stem cell enhancer
+T73	CellLine 5362 5366	K562
+T74	CellLine 5509 5513	K562
+T75	GeneProtein 5528 5532	TAL1
+T76	CellType 5362 5372	K562 cells
+T77	CellType 5509 5519	K562 cells
+T78	GeneProtein 5494 5498	STIL
+T79	GeneProtein 2427 2433	DNaseI
+T80	GeneProtein 2861 2886	porphobilinogen deaminase
+T81	CellType 7918 7932	erythroid cell
+T82	GeneProtein 7370 7374	TAL1
+T83	CellType 7341 7351	K562 cells
+T84	CellLine 4279 4283	K562
+T85	CellType 7401 7411	K562 cells
+T86	GeneProtein 6913 6917	TAL1
+T87	GeneProtein 6945 6949	TAL1
+T88	CellType 8576 8589	mouse ES cell
+T89	GeneProtein 3940 3944	STIL
+T90	GeneProtein 254 265	proteinaseK
+T91	CellType 2950 2956	T-cell
+T92	GeneProtein 650 656	DNaseI
+T93	CellType 7604 7611	blastic
+T94	GeneProtein 742 755	T4 polymerase
+T95	GeneProtein 465 471	DNaseI
+T96	Anatomy 5598 5612	haematopoiesis
+T97	CellType 5325 5345	human embryonic stem
+T98	GeneProtein 917 927	polymerase
+T99	GeneProtein 3529 3535	DNaseI
+T100	GeneProtein 3589 3595	DNaseI
+T101	CellLine 7341 7345	K562
+T102	GeneProtein 6979 6983	TAL1
+T103	GeneProtein 6842 6846	STIL
+T104	CellType 3194 3204	thymocytes
+T105	CellLine 8179 8183	K562
+T106	GeneProtein 8135 8139	TAL1
+T107	GeneProtein 7811 7833	+19 stem cell enhancer
+T108	CellType 7815 7824	stem cell
+T109	GeneProtein 5546 5550	TAL1
+T110	GeneProtein 8001 8019	mouse +40 enhancer
+T111	Species 8001 8006	mouse
+T112	CellType 7846 7855	erythroid
+T113	Anatomy 7944 7950	foetal
+T114	CellType 8699 8708	hES cells
+T115	GeneProtein 8523 8527	TAL1
+T116	GeneProtein 6435 6441	DNaseI
+T117	Species 405 410	mouse
+T118	Anatomy 8492 8507	embryoid bodies
+T119	CellLine 6564 6568	K562
+T120	GeneProtein 6409 6415	DNaseI
+T121	CellType 8461 8469	ES cells
+T122	GeneProtein 5662 5666	TAL1
+T123	GeneProtein 5970 5974	TAL1
+T124	CellType 7264 7273	hES cells
+T125	GeneProtein 7212 7218	DNaseI
+T126	CellLine 7277 7281	K562
+T127	Species 2998 3003	mouse
+T128	GeneProtein 7538 7542	TAL1
+T129	CellLine 7401 7405	K562
+T130	GeneProtein 7450 7454	TAL1

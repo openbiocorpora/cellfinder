@@ -1,0 +1,15 @@
+T1	CellType 960 965	hESCs
+T2	CellType 229 258	human fibroblast feeder cells
+T3	Species 229 234	human
+T4	CellType 62 87	human embryonic stem cell
+T5	Anatomy 871 890	embryonal carcinoma
+T6	CellLine 860 865	BG01V
+T7	CellType 730 735	hESCs
+T8	CellType 892 894	EC
+T9	Anatomy 871 880	embryonal
+T10	CellLine 901 907	NTera2
+T11	Anatomy 892 894	EC
+T12	Anatomy 881 890	carcinoma
+T13	Anatomy 772 787	embryoid bodies
+T14	CellType 68 87	embryonic stem cell
+T15	Species 62 67	human

@@ -1,0 +1,12 @@
+T1	CellType 338 360	pluripotent stem cells
+T2	CellType 79 105	human embryonic stem cells
+T3	CellType 1234 1262	human pluripotent stem cells
+T4	CellType 982 987	hESCs
+T5	Anatomy 85 94	embryonic
+T6	CellType 107 112	hESCs
+T7	CellType 1024 1029	hESCs
+T8	CellType 492 497	hESCs
+T9	Species 79 84	human
+T10	Species 1234 1239	human
+T11	CellType 759 764	hESCs
+T12	CellType 85 104	embryonic stem cell

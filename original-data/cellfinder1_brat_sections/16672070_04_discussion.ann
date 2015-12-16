@@ -1,0 +1,49 @@
+T1	CellType 2815 2820	hESCs
+T2	GeneProtein 5020 5025	KRTH4
+T3	CellType 5056 5063	feeders
+T4	GeneProtein 2904 2908	TGFβ
+T5	GeneProtein 4232 4237	Nanog
+T6	CellType 5068 5073	hESCs
+T7	GeneProtein 4404 4409	Nanog
+T8	GeneProtein 4004 4009	Nanog
+T9	GeneProtein 3716 3721	FoxD3
+T10	GeneProtein 3700 3705	Lin41
+T11	GeneProtein 5110 5114	MMP3
+T12	CellType 2960 2964	ESCs
+T13	CellType 2763 2771	EC cells
+T14	GeneProtein 3707 3711	Sox2
+T15	GeneProtein 5119 5128	TNFRSF11B
+T16	CellType 5039 5063	human fibroblast feeders
+T17	CellType 5235 5247	feeder cells
+T18	CellLine 2550 2555	BG01V
+T19	GeneProtein 4993 4998	THBS1
+T20	GeneProtein 5000 5004	MMP3
+T21	GeneProtein 4060 4065	Nanog
+T22	GeneProtein 5006 5015	TNFRSF11B
+T23	Anatomy 1368 1374	parent
+T24	CellType 17 22	hESCs
+T25	CellType 4841 4846	hESCs
+T26	Species 4542 4547	human
+T27	GeneProtein 3813 3817	Sox2
+T28	CellType 4542 4560	human feeder cells
+T29	CellLine 2584 2588	BG01
+T30	CellType 2970 2973	EBs
+T31	CellType 3427 3430	EBs
+T32	CellType 4548 4560	feeder cells
+T33	CellType 4851 4855	hEBs
+T34	Anatomy 4851 4855	hEBs
+T35	CellComponent 1143 1146	RNA
+T36	CellLine 2780 2786	NTera2
+T37	CellType 2763 2765	EC
+T38	Species 5039 5044	human
+T39	CellLine 2678 2682	BG01
+T40	GeneProtein 2910 2913	BMP
+T41	Anatomy 1303 1317	karyotypically
+T42	Anatomy 2970 2973	EBs
+T43	GeneProtein 3574 3579	Nanog
+T44	Anatomy 3427 3430	EBs
+T45	CellType 3620 3625	hESCs
+T46	CellType 1445 1447	ES
+T47	GeneProtein 3822 3827	FoxD3
+T48	GeneProtein 3805 3811	Lin 41
+T49	CellType 3492 3494	ES

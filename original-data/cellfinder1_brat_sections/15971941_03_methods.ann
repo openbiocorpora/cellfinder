@@ -1,0 +1,114 @@
+T1	CellLine 2558 2562	H1.4
+T2	CellLine 2544 2555	hESMPC-H1.3
+T3	CellType 2444 2455	C2C12 cells
+T4	GeneProtein 3250 3256	nestin
+T5	Species 902 907	human
+T6	Anatomy 908 912	bone
+T7	CellLine 4884 4888	H9.1
+T8	CellLine 2406 2411	C2C12
+T9	Species 2493 2498	horse
+T10	GeneProtein 2896 2901	CD166
+T11	CellLine 2582 2586	H1.1
+T12	CellLine 2444 2449	C2C12
+T13	CellLine 1780 1784	H1.2
+T14	CellLine 1790 1794	H1.4
+T15	CellLine 4901 4905	H1.2
+T16	CellLine 1438 1442	H1.4
+T17	CellLine 2116 2127	hESMPC-H1.1
+T18	Anatomy 159 168	embryonic
+T19	CellType 1839 1846	hESMPCs
+T20	CellType 1118 1128	Adipocytic
+T21	CellLine 1773 1784	hESMPC-H1.2
+T22	Anatomy 2187 2195	Myogenic
+T23	GeneProtein 3306 3314	vimentin
+T24	CellType 1507 1514	hESMPCs
+T25	Anatomy 1813 1823	Osteogenic
+T26	CellType 2432 2439	hESMPCs
+T27	CellLine 1425 1429	H9.1
+T28	GeneProtein 3175 3179	MyoD
+T29	CellType 1144 1151	hESMPCs
+T30	CellLine 1414 1418	H1.3
+T31	CellLine 1431 1442	hESMPC-H1.4
+T32	CellLine 1767 1771	H9.1
+T33	CellLine 2551 2555	H1.3
+T34	Anatomy 3322 3335	smooth muscle
+T35	CellLine 2569 2573	H9.1
+T36	CellLine 2592 2596	H1.2
+T37	Anatomy 812 823	mesenchymal
+T38	GeneProtein 3471 3491	Alkaline phosphatase
+T39	Anatomy 3329 3335	muscle
+T40	GeneProtein 2890 2895	ALCAM
+T41	CellLine 4894 4905	hESMPC-H1.2
+T42	CellLine 2147 2158	hESMPC-H1.2
+T43	GeneProtein 2758 2762	CD29
+T44	CellType 2221 2228	hESMPCs
+T45	CellLine 330 333	OP9
+T46	GeneProtein 2874 2878	CD73
+T47	GeneProtein 2737 2743	ICAM-1
+T48	CellLine 84 89	WA-09
+T49	GeneProtein 2723 2727	VCAM
+T50	Anatomy 902 919	human bone marrow
+T51	GeneProtein 2729 2735	STRO-1
+T52	CellType 169 180	fibroblasts
+T53	CellLine 2141 2145	H9.1
+T54	CellType 928 932	MSCs
+T55	CellLine 2164 2168	H1.4
+T56	CellType 4445 4449	MSCs
+T57	GeneProtein 2880 2884	CD44
+T58	CellLine 2575 2586	hESMPC-H1.1
+T59	CellLine 4877 4888	hESMPC-H9.1
+T60	Anatomy 4842 4853	mesenchymal
+T61	Species 153 158	mouse
+T62	Species 397 403	bovine
+T63	CellType 38 43	hESCs
+T64	Anatomy 391 396	fetal
+T65	GeneProtein 3316 3341	alpha smooth muscle actin
+T66	GeneProtein 2744 2748	CD54
+T67	GeneProtein 2751 2756	CD105
+T68	CellLine 49 54	WA-01
+T69	CellComponent 3757 3777	extracellular matrix
+T70	CellLine 45 47	H1
+T71	GeneProtein 1573 1579	TGF-β3
+T72	CellLine 538 546	OP9 cell
+T73	CellType 1460 1472	Chondrocytic
+T74	CellLine 1742 1753	hESMPC-H1.1
+T75	Anatomy 3795 3807	chondrogenic
+T76	Species 4708 4713	human
+T77	Anatomy 951 959	foreskin
+T78	CellType 960 971	fibroblasts
+T79	CellType 5046 5051	hESCs
+T80	CellLine 538 541	OP9
+T81	CellLine 4476 4480	H1.2
+T82	Species 790 795	human
+T83	GeneProtein 3401 3422	human nuclear antigen
+T84	GeneProtein 3363 3378	pan-cytokeratin
+T85	Species 3401 3406	human
+T86	Anatomy 438 449	Mesenchymal
+T87	GeneProtein 3343 3361	fast-switch myosin
+T88	CellLine 4463 4467	H9.1
+T89	GeneProtein 649 653	CD73
+T90	CellLine 1400 1404	H1.1
+T91	Species 945 950	human
+T92	CellType 812 838	mesenchymal precursor cell
+T93	CellLine 1393 1404	hESMPC-H1.1
+T94	CellType 2406 2417	C2C12 cells
+T95	CellLine 1756 1760	H1.3
+T96	Anatomy 3649 3661	Fat granules
+T97	CellLine 1749 1753	H1.1
+T98	CellLine 330 338	OP9 cell
+T99	CellLine 2123 2127	H1.1
+T100	CellLine 4469 4480	hESMPC-H1.2
+T101	CellType 153 180	mouse embryonic fibroblasts
+T102	CellType 4520 4525	hESCs
+T103	CellLine 80 82	H9
+T104	CellLine 1407 1411	H1.2
+T105	CellType 945 971	human foreskin fibroblasts
+T106	CellLine 4456 4467	hESMPC-H9.1
+T107	CellLine 4527 4529	H1
+T108	GeneProtein 3778 3791	proteoglycans
+T109	CellLine 2130 2134	H1.3
+T110	CellLine 2154 2158	H1.2
+T111	GeneProtein 3757 3791	extracellular matrix proteoglycans
+T112	GeneProtein 2768 2772	MF20
+T113	Anatomy 908 919	bone marrow
+T114	Anatomy 1460 1472	Chondrocytic

@@ -1,0 +1,30 @@
+T1	CellType 5526 5531	hESCs
+T2	CellType 5257 5262	hESCs
+T3	CellType 5322 5327	hESCs
+T4	Anatomy 75 90	inner cell mass
+T5	CellType 4743 4748	hESCs
+T6	CellType 6 25	embryonic stem cell
+T7	Anatomy 98 108	blastocyst
+T8	CellType 28 33	hESCs
+T9	Species 0 5	Human
+T10	CellType 4604 4609	hESCs
+T11	CellType 0 26	Human embryonic stem cells
+T12	CellType 1774 1779	hESCs
+T13	CellType 1443 1448	hESCs
+T14	CellType 1536 1554	neural populations
+T15	CellType 1725 1729	ESCs
+T16	CellType 243 255	trophoblasts
+T17	Species 612 617	human
+T18	CellType 1452 1460	germ cel
+T19	Anatomy 1452 1468	germ cell tumors
+T20	Anatomy 1510 1525	embryoid bodies
+T21	CellType 527 532	hESCs
+T22	CellType 1088 1093	hESCs
+T23	Species 343 348	human
+T24	Anatomy 6 15	embryonic
+T25	Anatomy 349 362	embryogenesis
+T26	CellType 260 270	germ cells
+T27	Anatomy 489 501	neurogenesis
+T28	Anatomy 475 487	gastrulation
+T29	Anatomy 506 519	organogenesis
+T30	Anatomy 220 231	germ layers

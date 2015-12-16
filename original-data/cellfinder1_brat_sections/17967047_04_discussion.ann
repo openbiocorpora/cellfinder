@@ -1,0 +1,74 @@
+T1	Anatomy 4947 4951	hCNS
+T2	CellType 1508 1515	hCNS-SC
+T3	Anatomy 1508 1512	hCNS
+T4	CellType 2925 2942	neural precursors
+T5	CellType 4947 4954	hCNS-SC
+T6	CellType 1508 1517	hCNS-SCns
+T7	CellType 6049 6052	NPs
+T8	CellType 6039 6044	hESCs
+T9	Anatomy 5738 5746	neuronal
+T10	GeneProtein 5899 5922	serine/threonine kinase
+T11	GeneProtein 6113 6116	SLK
+T12	GeneProtein 5942 5945	SLK
+T13	CellType 1091 1094	NPs
+T14	CellType 105 110	hESCs
+T15	GeneProtein 6893 6897	FOX1
+T16	CellType 6389 6392	NPs
+T17	Anatomy 6922 6930	neuronal
+T18	CellComponent 6500 6503	RNA
+T19	Anatomy 228 236	pancreas
+T20	GeneProtein 6722 6728	FOX1/2
+T21	Anatomy 238 243	blood
+T22	CellComponent 3559 3568	microRNAs
+T23	Species 321 326	human
+T24	Anatomy 4665 4669	hCNS
+T25	CellType 4665 4672	hCNS-SC
+T26	Anatomy 5541 5550	embryonic
+T27	GeneProtein 5662 5665	SLK
+T28	Anatomy 5580 5602	central nervous system
+T29	CellType 2400 2404	ESCs
+T30	GeneProtein 5487 5490	SLK
+T31	CellType 2394 2404	mouse ESCs
+T32	CellType 495 500	hESCs
+T33	Anatomy 857 869	dopaminergic
+T34	Anatomy 830 838	neuronal
+T35	Species 7237 7242	human
+T36	CellType 4939 4942	NPs
+T37	Anatomy 7243 7249	neural
+T38	Anatomy 249 263	nervous system
+T39	Anatomy 938 949	cholinergic
+T40	CellType 857 877	dopaminergic neurons
+T41	Anatomy 7287 7295	neuronal
+T42	CellType 6379 6384	hESCs
+T43	CellComponent 1203 1206	RNA
+T44	CellType 2032 2035	NPs
+T45	CellType 2932 2942	precursors
+T46	GeneProtein 2900 2906	Nestin
+T47	Anatomy 221 226	liver
+T48	CellType 4581 4584	NPs
+T49	CellType 4571 4576	hESCs
+T50	Anatomy 42 63	embryonic germ layers
+T51	Anatomy 42 51	embryonic
+T52	CellType 4947 4956	hCNS-SCns
+T53	CellType 5100 5105	hESCs
+T54	CellType 5158 5163	hESCs
+T55	CellType 5176 5179	NPs
+T56	CellType 15 19	ESCs
+T57	CellType 4309 4312	NPs
+T58	GeneProtein 5010 5013	SLK
+T59	CellType 4723 4726	NPs
+T60	Species 4345 4350	human
+T61	GeneProtein 2911 2915	Sox1
+T62	Anatomy 2925 2931	neural
+T63	CellType 7119 7127	NP cells
+T64	GeneProtein 5290 5293	SLK
+T65	CellType 776 779	NPs
+T66	CellType 625 629	ESCs
+T67	CellType 714 719	hESCs
+T68	CellType 1073 1078	hESCs
+T69	GeneProtein 5031 5054	serine/threonine kinase
+T70	CellType 938 957	cholinergic neurons
+T71	CellType 4665 4674	hCNS-SCns
+T72	Species 2394 2399	mouse
+T73	CellType 1475 1480	hESCs
+T74	CellType 1496 1499	NPs

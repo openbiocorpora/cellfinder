@@ -1,0 +1,42 @@
+T1	CellType 3565 3585	dopaminergic neurons
+T2	CellType 888 925	substantia nigra dopaminergic neurons
+T3	CellComponent 7 10	DNA
+T4	CellType 905 925	dopaminergic neurons
+T5	CellType 918 925	neurons
+T6	CellType 2249 2259	stem cells
+T7	CellComponent 272 276	cDNA
+T8	Anatomy 888 904	substantia nigra
+T9	CellType 1599 1609	stem cells
+T10	Anatomy 1589 1598	embryonic
+T11	Anatomy 1295 1301	neural
+T12	Anatomy 1566 1573	fetuses
+T13	CellType 1993 1998	hESCs
+T14	Anatomy 2717 2725	neuronal
+T15	GeneProtein 3535 3555	tyrosine hydroxylase
+T16	CellType 2237 2259	pluripotent stem cells
+T17	Species 1583 1588	Human
+T18	CellComponent 2826 2829	DNA
+T19	Anatomy 1878 1884	neural
+T20	CellType 1583 1609	Human embryonic stem cells
+T21	CellType 1915 1922	neurons
+T22	CellType 1878 1890	neural cells
+T23	CellType 3535 3585	tyrosine hydroxylase-positive dopaminergic neurons
+T24	CellType 1902 1922	dopaminergic neurons
+T25	CellType 3516 3523	neurons
+T26	CellType 1160 1180	dopaminergic neurons
+T27	Species 1130 1135	human
+T28	Anatomy 2022 2028	neural
+T29	Anatomy 1136 1145	embryonic
+T30	CellType 2022 2034	neural cells
+T31	CellType 2265 2285	post-mitotic neurons
+T32	CellType 1611 1616	hESCs
+T33	CellType 2278 2285	neurons
+T34	CellType 831 838	neurons
+T35	Anatomy 1554 1561	embryos
+T36	CellType 3350 3367	pluripotent hESCs
+T37	Anatomy 1146 1159	mesencephalic
+T38	CellType 1173 1180	neurons
+T39	CellType 3362 3367	hESCs
+T40	CellType 1130 1180	human embryonic mesencephalic dopaminergic neurons
+T41	CellComponent 98 101	RNA
+T42	CellLine 3379 3383	SA02

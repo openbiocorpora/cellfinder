@@ -1,0 +1,23 @@
+T1	GeneProtein 292 296	CD34
+T2	CellType 572 591	hematopoietic cells
+T3	CellType 288 291	hES
+T4	Species 507 512	HIV-1
+T5	GeneProtein 342 348	siRNAs
+T6	Anatomy 572 585	hematopoietic
+T7	GeneProtein 567 571	CD34
+T8	CellType 555 591	hES derived CD34 hematopoietic cells
+T9	CellType 555 558	hES
+T10	Species 596 601	HIV-1
+T11	Species 136 141	HIV-1
+T12	CellType 87 97	CD34 cells
+T13	CellType 83 86	hES
+T14	CellType 49 60	macrophages
+T15	CellType 83 97	hES-CD34 cells
+T16	CellType 288 302	hES-CD34 cells
+T17	CellType 459 472	primary cells
+T18	GeneProtein 308 322	anti-HIV genes
+T19	Species 364 373	antiviral
+T20	CellType 427 438	macrophages
+T21	Species 202 207	viral
+T22	CellType 567 591	CD34 hematopoietic cells
+T23	CellType 186 197	macrophages

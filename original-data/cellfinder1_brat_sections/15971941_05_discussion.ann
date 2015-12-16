@@ -1,0 +1,24 @@
+T1	CellType 127 141	cardiomyocytes
+T2	CellType 53 65	neural cells
+T3	Anatomy 205 213	mesoderm
+T4	CellType 913 918	hESCs
+T5	CellType 820 830	precursors
+T6	Anatomy 96 107	endothelial
+T7	Anatomy 1286 1296	mesodermal
+T8	CellType 152 157	hESCs
+T9	Anatomy 196 213	paraxial mesoderm
+T10	CellType 797 830	somatic stem-cell-like precursors
+T11	Anatomy 53 59	neural
+T12	Anatomy 196 204	paraxial
+T13	Species 1340 1345	human
+T14	CellType 249 271	mesenchymal precursors
+T15	CellType 805 814	stem-cell
+T16	CellType 786 791	hESCs
+T17	CellType 986 993	hESMPCs
+T18	Anatomy 702 712	osteogenic
+T19	Anatomy 249 260	mesenchymal
+T20	GeneProtein 370 374	CD73
+T21	CellLine 655 664	hESMPC9.1
+T22	CellType 370 379	CD73+ cel
+T23	CellType 261 271	precursors
+T24	Anatomy 73 86	hematopoietic

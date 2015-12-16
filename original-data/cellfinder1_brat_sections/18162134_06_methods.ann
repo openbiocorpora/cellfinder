@@ -1,0 +1,95 @@
+T1	GeneProtein 3138 3142	P190
+T2	CellComponent 1514 1528	karyotypically
+T3	Species 6783 6788	mouse
+T4	GeneProtein 8801 8809	occludin
+T5	Species 7137 7141	huma
+T6	GeneProtein 8303 8310	Ras-GAP
+T7	GeneProtein 8511 8516	ERBB2
+T8	Species 6772 6777	sheep
+T9	CellComponent 1422 1436	karyotypically
+T10	CellComponent 638 648	karyotypic
+T11	GeneProtein 8469 8477	p130 Cas
+T12	Species 1037 1042	bovin
+T13	GeneProtein 8431 8435	TNIK
+T14	GeneProtein 8619 8627	Occludin
+T15	GeneProtein 8546 8551	ERBB3
+T16	GeneProtein 8093 8104	L-Caldesmon
+T17	GeneProtein 8055 8060	HDJ-2
+T18	GeneProtein 8181 8197	phospho-p130 Cas
+T19	GeneProtein 8138 8148	Rabaptin-5
+T20	Species 6859 6864	horse
+T21	Species 7548 7552	goat
+T22	GeneProtein 6859 6882	horse radish peroxidase
+T23	GeneProtein 3238 3243	GRB-2
+T24	Species 6807 6813	bovine
+T25	GeneProtein 3256 3260	Rap2
+T26	GeneProtein 8811 8818	ERBB2/3
+T27	Species 6819 6823	goat
+T28	CellType 1536 1546	BG01 cells
+T29	CellLine 5248 5252	BG03
+T30	GeneProtein 3222 3228	RACK-1
+T31	GeneProtein 3593 3605	Calreticulin
+T32	GeneProtein 5668 5683	protein kinases
+T33	GeneProtein 8582 8585	ZO1
+T34	GeneProtein 1153 1163	hergulin1β
+T35	GeneProtein 8796 8799	ZO1
+T36	GeneProtein 1044 1055	transferrin
+T37	GeneProtein 3571 3582	Transportin
+T38	CellType 17 36	embryonic stem cell
+T39	CellComponent 8717 8723	nuclei
+T40	CellLine 1536 1540	BG01
+T41	GeneProtein 3497 3501	NTF2
+T42	GeneProtein 3555 3560	Hip1R
+T43	Species 6467 6472	rabbi
+T44	GeneProtein 3540 3544	p190
+T45	GeneProtein 3474 3484	KNP-1/HES1
+T46	CellLine 9196 9200	BG02
+T47	GeneProtein 3459 3464	Actin
+T48	GeneProtein 3415 3430	Nucleoporin p62
+T49	GeneProtein 3615 3619	Arp3
+T50	GeneProtein 8343 8348	Shc-C
+T51	GeneProtein 3153 3165	Adaptin beta
+T52	GeneProtein 3176 3182	STAT-3
+T53	GeneProtein 3192 3197	PTP1D
+T54	GeneProtein 8382 8387	Oct-4
+T55	GeneProtein 1220 1228	LR3-IGF1
+T56	GeneProtein 1186 1194	activinA
+T57	GeneProtein 3376 3391	Exportin-1/CRM1
+T58	GeneProtein 3402 3405	MCM
+T59	GeneProtein 3207 3212	Mek-2
+T60	GeneProtein 1260 1264	FGF2
+T61	Species 6478 6482	goat
+T62	GeneProtein 3629 3634	eIF-6
+T63	GeneProtein 3647 3651	Rap2
+T64	Species 6467 6473	rabbit
+T65	CellType 11 37	human embryonic stem cells
+T66	Species 7137 7142	human
+T67	GeneProtein 6872 6882	peroxidase
+T68	CellLine 88 92	BG01
+T69	GeneProtein 3440 3449	α-tubulin
+T70	Species 11 16	human
+T71	GeneProtein 3376 3386	Exportin-1
+T72	CellComponent 494 504	chromosome
+T73	CellLine 1777 1781	BG01
+T74	CellLine 548 552	BG03
+T75	CellType 602 605	MEF
+T76	GeneProtein 3387 3391	CRM1
+T77	GeneProtein 3474 3479	KNP-1
+T78	Species 6752 6758	rabbit
+T79	GeneProtein 5719 5731	phosphatases
+T80	GeneProtein 3480 3484	HES1
+T81	CellType 548 558	BG03 hESCs
+T82	CellType 88 98	BG01 hESCs
+T83	Species 6499 6504	mouse
+T84	Anatomy 17 26	embryonic
+T85	CellLine 9190 9194	BG01
+T86	Species 6740 6746	donkey
+T87	CellType 578 581	MEF
+T88	CellType 695 700	hESCs
+T89	GeneProtein 1309 1323	Collagenase IV
+T90	GeneProtein 8247 8262	phospho-Ras-GAP
+T91	GeneProtein 8016 8021	GS-28
+T92	GeneProtein 7938 7943	CtBP1
+T93	GeneProtein 7898 7905	ABP-280
+T94	CellLine 9205 9209	BG03
+T95	GeneProtein 7977 7982	CtBP2

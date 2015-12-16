@@ -1,0 +1,114 @@
+T1	Anatomy 4165 4174	myofibers
+T2	Anatomy 3866 3875	myofibers
+T3	Species 3520 3526	muscle
+T4	CellType 3500 3515	Satellite cells
+T5	GeneProtein 5968 5972	Oct4
+T6	CellType 5997 6014	muscle stem cells
+T7	Species 5007 5012	mouse
+T8	Species 5042 5048	bovine
+T9	CellType 6004 6014	stem cells
+T10	Species 1330 1336	muscle
+T11	Species 1451 1455	huma
+T12	CellType 5579 5622	aged muscle-specific organ progenitor cells
+T13	CellType 5566 5571	hESCs
+T14	CellType 5606 5622	progenitor cells
+T15	CellType 5977 5982	hESCs
+T16	Anatomy 1034 1039	blood
+T17	CellType 3570 3579	myofibers
+T18	CellType 5853 5858	hESCs
+T19	CellType 2506 2522	progenitor cells
+T20	Anatomy 1041 1052	endothelial
+T21	Anatomy 3429 3438	embryonic
+T22	CellType 2025 2041	organ stem cells
+T23	Anatomy 4401 4410	hind limb
+T24	CellType 2031 2041	stem cells
+T25	Anatomy 1066 1070	bone
+T26	CellType 2474 2484	stem cells
+T27	CellType 1663 1668	hESCs
+T28	Anatomy 1024 1030	neuron
+T29	Anatomy 4609 4624	skeletal muscle
+T30	Anatomy 4362 4376	cardiac muscle
+T31	Anatomy 1041 1049	endothel
+T32	CellType 317 322	hESCs
+T33	Anatomy 346 356	blastocyst
+T34	CellType 6538 6561	adult muscle stem cells
+T35	CellType 278 282	ESCs
+T36	GeneProtein 4225 4230	eMyHC
+T37	Anatomy 4362 4369	cardiac
+T38	GeneProtein 4321 4327	desmin
+T39	CellType 3467 3498	muscle-specific satellite cells
+T40	CellType 2880 2895	precursor cells
+T41	GeneProtein 4078 4082	Pax7
+T42	CellType 4548 4558	stem cells
+T43	CellType 4165 4174	myofibers
+T44	GeneProtein 4256 4262	desmin
+T45	GeneProtein 4640 4646	desmin
+T46	CellType 4362 4382	cardiac muscle cells
+T47	Anatomy 6070 6078	myogenic
+T48	Anatomy 4609 4617	skeletal
+T49	Anatomy 1054 1064	pancreatic
+T50	CellType 4541 4558	muscle stem cells
+T51	CellType 3866 3875	myofibers
+T52	Anatomy 3099 3104	liver
+T53	Anatomy 0 9	Embryonic
+T54	Anatomy 4886 4894	myogenic
+T55	CellType 3414 3424	stem cells
+T56	CellType 2051 2066	satellite cells
+T57	CellType 4102 4111	myoblasts
+T58	Anatomy 3322 3330	myogenic
+T59	GeneProtein 4195 4223	embryonic myosin heavy chain
+T60	CellType 4085 4111	fusion-competent myoblasts
+T61	CellType 3879 3887	myotubes
+T62	GeneProtein 2122 2133	delta-Notch
+T63	CellType 3652 3667	satellite cells
+T64	CellType 3642 3667	quiescent satellite cells
+T65	CellType 6551 6561	stem cells
+T66	CellType 3585 3612	differentiated muscle cells
+T67	CellType 4483 4501	interstitial cells
+T68	Anatomy 2825 2840	skeletal muscle
+T69	Anatomy 3619 3628	myofibers
+T70	CellType 4886 4900	myogenic cells
+T71	CellType 6213 6228	satellite cells
+T72	CellType 2560 2570	precursors
+T73	CellType 6431 6448	muscle stem cells
+T74	CellType 4178 4186	myotubes
+T75	CellType 5246 5256	stem cells
+T76	CellType 3725 3751	fusion-competent myoblasts
+T77	CellType 4740 4748	myotubes
+T78	CellType 5352 5357	hESCs
+T79	CellType 3742 3751	myoblasts
+T80	GeneProtein 5988 5992	Myf5
+T81	GeneProtein 2128 2133	Notch
+T82	CellType 3483 3498	satellite cells
+T83	CellType 3619 3628	myofibers
+T84	Anatomy 4459 4468	myofibers
+T85	Anatomy 4411 4426	skeletal muscle
+T86	Anatomy 1024 1032	neuronal
+T87	CellType 4911 4919	myotubes
+T88	CellType 0 20	Embryonic stem cells
+T89	CellType 6528 6533	hESCs
+T90	CellType 665 670	hESCs
+T91	CellType 3987 4002	satellite cells
+T92	CellComponent 813 821	telomere
+T93	CellType 731 741	stem cells
+T94	CellType 960 965	hESCs
+T95	Anatomy 5036 5041	fetal
+T96	CellType 22 26	ESCs
+T97	CellType 5226 5231	hESCs
+T98	CellType 719 741	adult organ stem cells
+T99	CellType 3520 3537	muscle stem cells
+T100	CellType 6307 6312	hESCs
+T101	CellType 541 546	hESCs
+T102	CellType 4640 4652	desmin+ cell
+T103	CellType 6645 6650	hESCs
+T104	Anatomy 4411 4419	skeletal
+T105	CellType 6438 6448	stem cells
+T106	CellComponent 4725 4739	multinucleated
+T107	CellType 4459 4468	myofibers
+T108	Anatomy 2825 2833	skeletal
+T109	CellType 4725 4748	multinucleated myotubes
+T110	GeneProtein 4037 4041	Myf5
+T111	GeneProtein 4059 4076	Paired box gene 7
+T112	GeneProtein 4043 4053	M-cadherin
+T113	CellType 3977 4002	Activated satellite cells
+T114	GeneProtein 4135 4141	desmin

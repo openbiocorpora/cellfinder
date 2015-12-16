@@ -1,0 +1,59 @@
+T1	CellType 3668 3673	hESCs
+T2	Species 225 230	mouse
+T3	CellType 3124 3133	myofibers
+T4	Species 1196 1202	Humans
+T5	Anatomy 3761 3769	myogenic
+T6	Anatomy 3924 3932	skeletal
+T7	Species 1368 1372	mice
+T8	CellType 4327 4342	embryonic cells
+T9	Anatomy 4327 4336	embryonic
+T10	Anatomy 3640 3648	myogenic
+T11	Anatomy 4365 4373	skeletal
+T12	CellType 3901 3906	hESCs
+T13	CellComponent 3421 3429	myofiber
+T14	CellComponent 3124 3132	myofiber
+T15	CellComponent 2962 2970	myofiber
+T16	CellComponent 2954 2960	desmin
+T17	CellComponent 639 647	myofiber
+T18	CellType 4538 4548	stem cells
+T19	Anatomy 2196 2205	embryonic
+T20	CellType 242 267	myogenic progenitor cells
+T21	Anatomy 2597 2605	skeletal
+T22	CellType 2058 2073	satellite cells
+T23	CellType 2360 2365	hESCs
+T24	CellType 350 355	hESCs
+T25	CellType 251 261	progenitor
+T26	Anatomy 4559 4580	differentiated niches
+T27	CellType 2030 2039	myoblasts
+T28	Anatomy 3260 3275	skeletal muscle
+T29	CellType 3738 3743	hMSCs
+T30	Anatomy 2370 2405	heterochronic differentiated niches
+T31	GeneProtein 3843 3848	Notch
+T32	Anatomy 304 312	myogenic
+T33	CellType 2539 2544	hESCs
+T34	Anatomy 4079 4088	teratomas
+T35	Species 1913 1918	mouse
+T36	Anatomy 2597 2612	skeletal muscle
+T37	CellType 877 885	stem cel
+T38	CellType 639 648	myofibers
+T39	Anatomy 3260 3268	skeletal
+T40	Anatomy 3924 3939	skeletal muscle
+T41	CellType 1840 1845	hESCs
+T42	Species 619 624	mouse
+T43	CellType 2693 2708	embryonic cells
+T44	Anatomy 2693 2702	embryonic
+T45	GeneProtein 2954 2960	desmin
+T46	CellType 215 220	hESCs
+T47	Anatomy 4178 4186	skeletal
+T48	CellType 4694 4704	stem cells
+T49	Anatomy 120 135	skeletal muscle
+T50	Anatomy 4178 4193	skeletal muscle
+T51	Anatomy 242 250	myogenic
+T52	CellType 4236 4241	hESCs
+T53	Anatomy 4297 4306	oncogenic
+T54	Anatomy 2001 2009	myogenic
+T55	Anatomy 4365 4380	skeletal muscle
+T56	Anatomy 120 128	skeletal
+T57	CellType 3619 3634	satellite cells
+T58	CellType 2925 2930	hESCs
+T59	CellType 2962 2971	myofibers

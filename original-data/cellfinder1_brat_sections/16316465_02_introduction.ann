@@ -1,0 +1,49 @@
+T1	CellType 2392 2396	ESCs
+T2	CellType 1600 1602	ES
+T3	Species 1035 1040	human
+T4	CellType 1008 1018	germ cells
+T5	CellType 773 793	Embryonic stem cells
+T6	Anatomy 818 833	inner cell mass
+T7	Species 1121 1126	mouse
+T8	Anatomy 1085 1094	embryonic
+T9	CellType 1079 1106	extra-embryonic derivatives
+T10	Anatomy 854 861	embryos
+T11	CellType 2433 2443	germ cells
+T12	GeneProtein 2029 2035	Oct3/4
+T13	CellType 68 78	stem cells
+T14	CellType 173 183	stem cells
+T15	GeneProtein 2040 2045	Nanog
+T16	GeneProtein 1249 1279	basic fibroblast growth factor
+T17	GeneProtein 1281 1285	bFGF
+T18	GeneProtein 2521 2526	Nanog
+T19	CellType 1138 1146	ES cells
+T20	Anatomy 545 556	populations
+T21	CellType 406 416	stem cells
+T22	CellType 264 274	stem cells
+T23	GeneProtein 1907 1913	Pou5f1
+T24	Species 1132 1137	human
+T25	GeneProtein 2242 2255	human Oct 3/4
+T26	CellType 1334 1342	ES cells
+T27	Species 1328 1333	human
+T28	CellType 1121 1130	mouse ESC
+T29	CellType 1189 1199	fibroblast
+T30	CellType 321 337	progenitor cells
+T31	GeneProtein 1862 1905	POU domain, class 5, transcription factor 1
+T32	CellType 1183 1199	mouse fibroblast
+T33	CellType 1132 1146	human ES cells
+T34	CellType 1328 1342	human ES cells
+T35	Species 1183 1188	mouse
+T36	Species 1684 1689	human
+T37	CellType 1690 1694	ESCs
+T38	CellType 1684 1694	human ESCs
+T39	GeneProtein 1919 1924	Nanog
+T40	CellType 1789 1804	pluripotent ESC
+T41	GeneProtein 1854 1860	Oct3/4
+T42	CellType 761 771	stem cells
+T43	GeneProtein 2398 2404	Oct3/4
+T44	Anatomy 983 997	somatic tissue
+T45	Species 2242 2247	human
+T46	Anatomy 933 955	pluripotent population
+T47	GeneProtein 2212 2218	Oct3/4
+T48	Anatomy 773 782	Embryonic
+T49	GeneProtein 2248 2255	Oct 3/4

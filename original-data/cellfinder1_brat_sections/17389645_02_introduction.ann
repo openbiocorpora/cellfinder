@@ -1,0 +1,18 @@
+T1	CellType 2189 2214	embryonic stem (hES) cell
+T2	CellComponent 549 552	DNA
+T3	GeneProtein 24 30	DNaseI
+T4	CellComponent 1300 1303	DNA
+T5	GeneProtein 2095 2131	T-cell acute lymphocytic leukaemia-1
+T6	GeneProtein 2089 2093	TAL1
+T7	CellLine 2244 2248	K562
+T8	CellType 2205 2208	hES
+T9	Anatomy 2189 2198	embryonic
+T10	CellComponent 592 601	chromatin
+T11	GeneProtein 576 582	DNaseI
+T12	CellComponent 1254 1257	DNA
+T13	GeneProtein 2152 2171	stem cell leukaemia
+T14	GeneProtein 2147 2150	SCL
+T15	CellType 2224 2238	leukaemia cell
+T16	CellComponent 318 327	chromatin
+T17	CellComponent 1107 1110	DNA
+T18	Species 2183 2188	human

@@ -1,0 +1,73 @@
+T1	CellType 2147 2160	primary cells
+T2	CellType 2115 2126	macrophages
+T3	CellType 1737 1748	macrophages
+T4	Anatomy 1319 1324	HIV-1
+T5	CellType 1771 1774	hES
+T6	GeneProtein 895 899	CD34
+T7	CellType 662 678	progenitor cells
+T8	CellType 1980 1990	CD34 cells
+T9	Anatomy 2195 2200	HIV-1
+T10	Anatomy 1799 1804	cells
+T11	CellType 2243 2246	hES
+T12	CellType 1775 1785	CD34 cells
+T13	Anatomy 1890 1895	viral
+T14	GeneProtein 1980 1984	CD34
+T15	GeneProtein 1775 1779	CD34
+T16	Anatomy 724 737	cystic bodies
+T17	GeneProtein 643 647	CD34
+T18	CellType 1345 1356	macrophages
+T19	CellLine 591 594	S17
+T20	Anatomy 626 632	layers
+T21	CellType 1874 1885	macrophages
+T22	Anatomy 613 620	stromal
+T23	CellType 564 573	hES cells
+T24	CellType 190 200	stem cells
+T25	CellType 171 200	CD34 hematopoietic stem cells
+T26	CellType 1424 1433	hES cells
+T27	Anatomy 648 661	hematopoietic
+T28	CellType 1976 1979	hES
+T29	GeneProtein 1040 1044	CD14
+T30	GeneProtein 171 175	CD34
+T31	GeneProtein 699 703	CD34
+T32	CellType 72 98	human embryonic stem cells
+T33	CellType 88 98	stem cells
+T34	CellType 136 148	cell progeny
+T35	CellType 100 109	hES cells
+T36	Anatomy 176 189	hematopoietic
+T37	Anatomy 1395 1405	Lentiviral
+T38	Anatomy 1406 1412	vector
+T39	GeneProtein 1180 1184	B7.1
+T40	CellType 1515 1524	hES cells
+T41	Anatomy 2260 2273	hematopoietic
+T42	Anatomy 601 612	bone marrow
+T43	Anatomy 1824 1829	HIV-1
+T44	Species 595 600	mouse
+T45	CellType 346 357	macrophages
+T46	Anatomy 883 888	fetal
+T47	GeneProtein 1459 1462	GFP
+T48	Species 72 77	human
+T49	Anatomy 78 87	embryonic
+T50	CellType 2255 2279	CD34 hematopoietic cells
+T51	Anatomy 2052 2061	antiviral
+T52	GeneProtein 312 316	CD34
+T53	CellType 1258 1269	macrophages
+T54	GeneProtein 1057 1062	CXCR4
+T55	CellType 312 322	CD34 cells
+T56	GeneProtein 2255 2259	CD34
+T57	Anatomy 889 894	liver
+T58	CellType 643 678	CD34 hematopoietic progenitor cells
+T59	CellType 788 799	macrophages
+T60	CellType 699 709	CD34 cells
+T61	GeneProtein 1051 1055	CCR5
+T62	GeneProtein 1068 1074	HLA-DR
+T63	CellType 1543 1554	macrophages
+T64	Anatomy 1996 2004	anti-HIV
+T65	CellType 960 963	hES
+T66	Anatomy 2284 2289	HIV-1
+T67	GeneProtein 964 968	CD34
+T68	CellType 982 993	macrophages
+T69	GeneProtein 2030 2036	siRNAs
+T70	CellType 913 924	macrophages
+T71	CellType 154 161	hES cel
+T72	Anatomy 890 894	iver
+T73	GeneProtein 1046 1049	CD4

@@ -1,0 +1,40 @@
+T1	GeneProtein 5213 5224	Connexin 43
+T2	CellComponent 654 663	chromatin
+T3	CellComponent 3691 3695	cDNA
+T4	Species 57 62	human
+T5	Anatomy 6620 6639	polarized epithelia
+T6	GeneProtein 5670 5678	p130 Cas
+T7	CellType 1260 1287	mouse embryonic fibroblasts
+T8	CellType 1608 1613	hESCs
+T9	GeneProtein 1470 1475	IGF1R
+T10	CellType 736 741	hESCs
+T11	CellType 37 42	hESCs
+T12	GeneProtein 6739 6744	ERBB3
+T13	CellType 2527 2532	hESCs
+T14	GeneProtein 5229 5234	GSK3β
+T15	CellType 6206 6211	hESCs
+T16	CellType 2643 2648	hESCs
+T17	CellType 6969 6974	hESCs
+T18	Species 3120 3125	mouse
+T19	CellType 3126 3130	ESCs
+T20	CellType 3134 3139	hESCs
+T21	GeneProtein 5400 5413	Karyopherin α
+T22	GeneProtein 5661 5665	TNIK
+T23	CellType 2061 2065	ESCs
+T24	GeneProtein 5168 5172	Oct4
+T25	CellType 2192 2197	hESCs
+T26	CellType 4661 4666	hESCs
+T27	CellType 6603 6608	hESCs
+T28	Anatomy 1266 1275	embryonic
+T29	CellType 3120 3130	mouse ESCs
+T30	CellType 5147 5152	hESCs
+T31	CellType 4409 4414	hESCs
+T32	CellType 1276 1287	fibroblasts
+T33	Species 1260 1265	mouse
+T34	GeneProtein 1480 1487	ERBB2/3
+T35	CellType 848 853	hESCs
+T36	CellType 5367 5372	hESCs
+T37	CellType 5770 5775	hESCs
+T38	CellComponent 1621 1625	cDNA
+T39	CellType 3288 3293	hESCs
+T40	GeneProtein 6537 6559	tight junction protein

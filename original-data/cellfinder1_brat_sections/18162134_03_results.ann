@@ -1,0 +1,499 @@
+T1	GeneProtein 16442 16448	SEC8L1
+T2	GeneProtein 4230 4245	protein kinases
+T3	GeneProtein 4269 4281	phosphatases
+T4	CellComponent 6884 6892	membrane
+T5	GeneProtein 16015 16021	p70s6k
+T6	GeneProtein 8635 8639	FGF2
+T7	CellType 12367 12377	Oct4+ cell
+T8	GeneProtein 15327 15330	F2R
+T9	GeneProtein 9204 9208	Oct4
+T10	CellType 9152 9157	hESCs
+T11	GeneProtein 15262 15267	PTP1B
+T12	GeneProtein 15026 15031	Smad4
+T13	GeneProtein 15340 15346	PTPNS1
+T14	GeneProtein 16298 16303	Gfra1
+T15	GeneProtein 15333 15339	SHPS-1
+T16	GeneProtein 2702 2709	ABP-280
+T17	GeneProtein 15359 15366	Smad2/3
+T18	GeneProtein 16286 16297	GDNFR-alpha
+T19	GeneProtein 15350 15354	MCM5
+T20	CellComponent 18009 18020	basolateral
+T21	GeneProtein 16453 16465	beta-Catenin
+T22	GeneProtein 15039 15047	Endoglin
+T23	GeneProtein 15491 15514	Endopeptidase 3.4.24.16
+T24	CellLine 1285 1289	BG01
+T25	GeneProtein 3086 3097	Inhibitor 2
+T26	GeneProtein 15845 15848	SHC
+T27	GeneProtein 3136 3142	OXA1Hs
+T28	GeneProtein 15203 15210	CSNK2A1
+T29	GeneProtein 16975 16981	Map2k3
+T30	CellComponent 13009 13018	cytoplasm
+T31	GeneProtein 15515 15518	NLN
+T32	GeneProtein 2973 2976	BiP
+T33	GeneProtein 7745 7752	PP5/PPT
+T34	GeneProtein 15370 15374	Tyk2
+T35	GeneProtein 7654 7662	PKC beta
+T36	CellComponent 11436 11444	membrane
+T37	GeneProtein 7735 7739	DAP3
+T38	GeneProtein 7668 7673	Cdk7P
+T39	CellComponent 13009 13020	cytoplasmic
+T40	CellComponent 6592 6604	cytoskeleton
+T41	GeneProtein 16056 16061	PTP1B
+T42	GeneProtein 16124 16127	Sek
+T43	GeneProtein 15668 15672	GJA1
+T44	GeneProtein 16084 16105	PI3-Kinase p110 alpha
+T45	GeneProtein 15799 15805	eIF-4E
+T46	GeneProtein 16908 16915	ABP-280
+T47	GeneProtein 9210 9215	E-CAD
+T48	GeneProtein 16332 16337	SAPK1
+T49	GeneProtein 16070 16074	Dok1
+T50	GeneProtein 16062 16067	PTPN1
+T51	GeneProtein 15698 15704	MAP2K1
+T52	CellComponent 18002 18008	apical
+T53	CellComponent 14471 14483	Gap junction
+T54	GeneProtein 14991 14996	PAI-1
+T55	GeneProtein 15736 15740	MEK2
+T56	GeneProtein 15009 15016	Smad2/3
+T57	GeneProtein 15792 15795	Crk
+T58	GeneProtein 15763 15769	PIK3R1
+T59	GeneProtein 2941 2954	Karyopherin α
+T60	GeneProtein 15304 15321	Thrombin Receptor
+T61	GeneProtein 10933 10937	Oct4
+T62	GeneProtein 15049 15057	WntCtBP2
+T63	GeneProtein 15180 15202	Casein Kinase II alpha
+T64	GeneProtein 10890 10894	Oct4
+T65	GeneProtein 16075 16081	p62dok
+T66	GeneProtein 15174 15177	Jun
+T67	Anatomy 18884 18893	epidermal
+T68	GeneProtein 2903 2925	B2 Bradykinin Receptor
+T69	GeneProtein 16312 16320	IKK beta
+T70	Anatomy 18320 18339	polarized epithelia
+T71	GeneProtein 15741 15747	MAP2K2
+T72	CellLine 832 836	BG01
+T73	CellComponent 18292 18304	cell borders
+T74	CellType 13120 13136	pluripotent cell
+T75	CellType 707 717	BG01 hESCs
+T76	GeneProtein 16921 16935	14-3-3 epsilon
+T77	GeneProtein 16106 16112	PIK3CA
+T78	GeneProtein 4940 4944	MAPK
+T79	CellComponent 12082 12089	F-actin
+T80	GeneProtein 16957 16961	TAO1
+T81	GeneProtein 15782 15787	MAPK1
+T82	GeneProtein 16898 16904	PPP1R2
+T83	GeneProtein 5007 5015	p38 MAPK
+T84	CellComponent 17944 17951	barrier
+T85	GeneProtein 7510 7514	MKP2
+T86	GeneProtein 10859 10875	phospho-p130 Cas
+T87	CellType 12745 12750	hESCs
+T88	GeneProtein 7644 7648	Cdk5
+T89	GeneProtein 16114 16123	ERBBEphA4
+T90	CellComponent 17991 17997	border
+T91	GeneProtein 16849 16856	p38MAPK
+T92	CellLine 378 382	BG01
+T93	GeneProtein 15566 15570	GRB2
+T94	CellType 9393 9398	hESCs
+T95	GeneProtein 10769 10776	Ras-GAP
+T96	GeneProtein 3906 3918	phosphatases
+T97	GeneProtein 10725 10732	Ras-GAP
+T98	CellType 12568 12573	hESCs
+T99	CellType 19139 19144	hESCs
+T100	GeneProtein 14390 14394	Stat
+T101	GeneProtein 9832 9840	Rabaptin
+T102	GeneProtein 9782 9793	L-Caldesmon
+T103	CellComponent 11456 11467	cytoplasmic
+T104	GeneProtein 15020 15023	Jun
+T105	GeneProtein 10054 10061	Ras-GAP
+T106	GeneProtein 5823 5827	FGF2
+T107	CellType 10627 10632	hESCs
+T108	CellType 10697 10707	BG01 cells
+T109	GeneProtein 5804 5809	STAT3
+T110	GeneProtein 16338 16344	MAPK10
+T111	GeneProtein 12794 12802	p130 Cas
+T112	CellType 4505 4510	hESCs
+T113	GeneProtein 16137 16141	SHC3
+T114	GeneProtein 16945 16954	MAPKAPK-5
+T115	GeneProtein 15909 15915	Ercc-1
+T116	GeneProtein 16212 16218	NFKBIE
+T117	GeneProtein 7758 7762	ERK1
+T118	GeneProtein 15872 15875	NCK
+T119	CellComponent 20290 20302	cell surface
+T120	CellType 1285 1295	BG01 hESCs
+T121	CellType 3699 3702	MEF
+T122	GeneProtein 12522 12526	TNIK
+T123	GeneProtein 2096 2099	AKT
+T124	CellComponent 18139 18152	gap junctions
+T125	CellComponent 17881 17907	apical cell-cell junctions
+T126	CellLine 4188 4192	BG03
+T127	GeneProtein 4863 4867	Oct4
+T128	GeneProtein 2101 2110	caveolin1
+T129	GeneProtein 11957 11962	Traf2
+T130	Anatomy 18091 18100	epithelia
+T131	CellLine 707 711	BG01
+T132	GeneProtein 15999 16004	Bcl-x
+T133	GeneProtein 15879 15888	PKB alpha
+T134	GeneProtein 11409 11417	p130 Cas
+T135	GeneProtein 14975 14980	TGF β
+T136	GeneProtein 16022 16029	RPS6KB1
+T137	GeneProtein 16005 16011	BCL2L1
+T138	GeneProtein 12900 12907	p130Cas
+T139	GeneProtein 18542 18545	ZO1
+T140	CellType 18400 18405	hESCs
+T141	CellType 13563 13568	hESCs
+T142	GeneProtein 16500 16509	PKC alpha
+T143	GeneProtein 18827 18831	Oct4
+T144	CellType 19399 19415	Epithelial cells
+T145	CellComponent 19460 19471	basolateral
+T146	GeneProtein 16224 16228	GRB2
+T147	GeneProtein 16490 16495	MLLT4
+T148	GeneProtein 15421 15427	GPCRB2
+T149	GeneProtein 16936 16941	YWHAE
+T150	GeneProtein 16689 16693	ERK2
+T151	GeneProtein 16190 16203	GDNFI kappa B
+T152	GeneProtein 9233 9238	Hsp70
+T153	GeneProtein 17487 17492	ERBB2
+T154	CellType 4839 4844	mESCs
+T155	CellType 4848 4853	hESCs
+T156	GeneProtein 11940 11948	p130 Cas
+T157	GeneProtein 5878 5882	FGF2
+T158	GeneProtein 11093 11097	Oct4
+T159	GeneProtein 5888 5900	phospho-GSK3
+T160	GeneProtein 11254 11258	TNIK
+T161	GeneProtein 14800 14805	Stat1
+T162	GeneProtein 18688 18691	ZO1
+T163	CellType 4595 4600	hESCs
+T164	CellType 17450 17455	hESCs
+T165	GeneProtein 15428 15447	Bradykinin Receptor
+T166	GeneProtein 7854 7869	I kappa B alpha
+T167	GeneProtein 7884 7892	IKK beta
+T168	Anatomy 18330 18339	epithelia
+T169	GeneProtein 18253 18261	occludin
+T170	GeneProtein 7814 7824	PTP1D/SHP2
+T171	CellLine 10697 10701	BG01
+T172	GeneProtein 15413 15419	Stat5A
+T173	GeneProtein 10330 10334	Oct4
+T174	CellComponent 20526 20532	Nuclei
+T175	GeneProtein 299 303	MAPK
+T176	GeneProtein 7830 7840	GSK-3 beta
+T177	CellComponent 17518 17540	tight junction complex
+T178	GeneProtein 7930 7934	JNK1
+T179	GeneProtein 7940 7943	VHR
+T180	GeneProtein 16132 16136	ShcC
+T181	GeneProtein 7779 7783	ERK2
+T182	CellComponent 19966 19980	Tight junction
+T183	GeneProtein 15647 15651	TJP1
+T184	GeneProtein 16575 16579	NRAS
+T185	GeneProtein 16396 16416	PP2A Catalytic alpha
+T186	CellComponent 17959 17972	extracellular
+T187	GeneProtein 16537 16541	TJP1
+T188	GeneProtein 15551 15555	Cdk1
+T189	GeneProtein 19438 19452	ERBB receptors
+T190	GeneProtein 16154 16159	ERBB2
+T191	GeneProtein 15532 15535	SHC
+T192	GeneProtein 9705 9710	HDJ-2
+T193	GeneProtein 16887 16897	Inhibitor2
+T194	GeneProtein 15448 15454	BDKRB2
+T195	GeneProtein 16834 16837	Ras
+T196	GeneProtein 5896 5900	GSK3
+T197	GeneProtein 9741 9746	Hsp40
+T198	GeneProtein 16879 16884	SAPK1
+T199	GeneProtein 15710 15713	Rsk
+T200	GeneProtein 15322 15326	PAR1
+T201	GeneProtein 15714 15721	RPS6KA1
+T202	GeneProtein 15593 15598	PKA C
+T203	GeneProtein 15378 15381	Jun
+T204	GeneProtein 7805 7808	FAK
+T205	GeneProtein 15390 15396	BCL2L1
+T206	GeneProtein 7789 7799	PTP1C/SHP1
+T207	GeneProtein 7768 7773	PTP1B
+T208	GeneProtein 15406 15410	DPC4
+T209	GeneProtein 15384 15389	Bcl-x
+T210	GeneProtein 15989 15995	SCAMP1
+T211	CellComponent 9690 9695	golgi
+T212	GeneProtein 7678 7687	PKC delta
+T213	GeneProtein 16244 16247	NCK
+T214	GeneProtein 16788 16794	TFII-I
+T215	GeneProtein 15459 15481	Neurotensin Receptor 3
+T216	GeneProtein 4901 4904	FGF
+T217	GeneProtein 9681 9686	GS-28
+T218	CellType 14202 14207	hESCs
+T219	GeneProtein 16760 16769	p38 alpha
+T220	GeneProtein 14351 14354	FGF
+T221	GeneProtein 18853 18858	ERBB2
+T222	GeneProtein 287 297	MAP kinase
+T223	GeneProtein 16234 16238	MEK2
+T224	GeneProtein 15954 15959	RAFT1
+T225	GeneProtein 18909 18912	EGF
+T226	GeneProtein 15979 15985	PTPN11
+T227	GeneProtein 18975 18978	EGF
+T228	GeneProtein 13108 13116	p130 Cas
+T229	GeneProtein 4874 4879	STAT3
+T230	GeneProtein 18995 19000	ERBB2
+T231	GeneProtein 15836 15841	C-Raf
+T232	GeneProtein 3110 3119	Caspase 8
+T233	GeneProtein 15895 15905	GSK-3 beta
+T234	GeneProtein 15824 15832	SERPINE1
+T235	GeneProtein 7693 7703	DAP Kinase
+T236	GeneProtein 15810 15814	ShcC
+T237	GeneProtein 16423 16431	PKC iota
+T238	GeneProtein 15601 15613	PKA RI alpha
+T239	GeneProtein 16031 16046	PI3-Kinase p170
+T240	GeneProtein 15151 15156	CCND3
+T241	GeneProtein 15032 15036	DPC4
+T242	GeneProtein 15085 15091	PPP2CA
+T243	GeneProtein 16795 16803	GTF2IRD1
+T244	GeneProtein 14980 14985	Stat1
+T245	GeneProtein 16779 16783	G3BP
+T246	GeneProtein 11992 11996	TNIK
+T247	GeneProtein 15948 15951	Jun
+T248	GeneProtein 11999 12003	TNIK
+T249	GeneProtein 16812 16816	STK4
+T250	GeneProtein 5967 5978	Connexin 43
+T251	GeneProtein 15064 15084	PP2A Catalytic alpha
+T252	GeneProtein 14386 14389	Jak
+T253	GeneProtein 16807 16811	MST1
+T254	GeneProtein 6656 6672	protein kinase A
+T255	GeneProtein 6147 6151	FGF2
+T256	GeneProtein 6153 6158	HSP70
+T257	GeneProtein 9584 9589	CtBP1
+T258	GeneProtein 9493 9500	ABP-280
+T259	GeneProtein 9748 9769	heat shock protein 40
+T260	CellComponent 17861 17875	Tight junction
+T261	GeneProtein 16770 16776	SAPK2a
+T262	CellType 378 388	BG01 cells
+T263	GeneProtein 16386 16390	PTEN
+T264	CellComponent 15539 15551	Gap Junction
+T265	CellComponent 553 563	chromosome
+T266	GeneProtein 15642 15646	ZO-1
+T267	GeneProtein 15656 15667	Connexin-43
+T268	GeneProtein 5980 5985	E-Cad
+T269	GeneProtein 4991 4995	GSK3
+T270	GeneProtein 15919 15938	Fatty Acid Synthase
+T271	GeneProtein 5301 5314	B2 bradykinin
+T272	GeneProtein 16583 16605	Casein Kinase II alpha
+T273	GeneProtein 14463 14466	ERK
+T274	GeneProtein 15118 15130	beta-Catenin
+T275	CellType 832 842	BG01 hESCs
+T276	GeneProtein 19273 19278	ERBB2
+T277	CellType 13288 13293	hESCs
+T278	GeneProtein 5990 5996	GDNFRα
+T279	GeneProtein 5157 5178	cell surface proteins
+T280	GeneProtein 16563 16568	SYMPK
+T281	GeneProtein 7919 7924	Stat3
+T282	GeneProtein 7909 7913	JAK1
+T283	GeneProtein 16306 16309	Jun
+T284	GeneProtein 4997 5002	STAT3
+T285	GeneProtein 7898 7903	Stat1
+T286	GeneProtein 14362 14367	GSK3β
+T287	GeneProtein 9594 9599	CtBP2
+T288	GeneProtein 16347 16351	NBS1
+T289	GeneProtein 14372 14381	β-catenin
+T290	GeneProtein 4928 4931	Src
+T291	GeneProtein 7875 7878	Rsk
+T292	CellType 3526 3531	hESCs
+T293	GeneProtein 16546 16550	CASK
+T294	CellLine 3655 3659	BG03
+T295	GeneProtein 16553 16562	Symplekin
+T296	GeneProtein 3883 3898	protein kinases
+T297	GeneProtein 18245 18248	ZO1
+T298	CellComponent 6567 6574	nuclear
+T299	GeneProtein 18361 18364	ZO1
+T300	GeneProtein 15753 15762	PI3Kinase
+T301	CellType 13351 13356	hESCs
+T302	GeneProtein 6771 6791	protein phosphatases
+T303	GeneProtein 15581 15587	MAP2K1
+T304	CellType 13467 13472	hESCs
+T305	GeneProtein 15576 15580	MEK1
+T306	GeneProtein 12504 12508	Oct4
+T307	CellComponent 6555 6562	nucleus
+T308	GeneProtein 15726 15730	GRB2
+T309	GeneProtein 15853 15861	PKC beta
+T310	CellComponent 18176 18200	tight junction complexes
+T311	GeneProtein 15818 15823	PAI-1
+T312	GeneProtein 2685 2689	GS15
+T313	GeneProtein 15676 15687	IGFPKC iota
+T314	GeneProtein 14807 14812	SMADs
+T315	GeneProtein 15556 15560	Cdc2
+T316	GeneProtein 16358 16362	Dok1
+T317	GeneProtein 6702 6718	tyrosine kinases
+T318	GeneProtein 14997 15005	SERPINE1
+T319	GeneProtein 6679 6695	protein kinase C
+T320	GeneProtein 16820 16824	MKP2
+T321	GeneProtein 14356 14360	TGFβ
+T322	GeneProtein 407 418	collagenase
+T323	GeneProtein 14471 14483	Gap junction
+T324	GeneProtein 7487 7504	CaM Kinase Kinase
+T325	CellType 152 157	hESCs
+T326	GeneProtein 16352 16356	ARTN
+T327	GeneProtein 15522 15528	IP3R-3
+T328	GeneProtein 14666 14670	FGF2
+T329	GeneProtein 16363 16369	p62dok
+T330	GeneProtein 14458 14462	MAPK
+T331	GeneProtein 7604 7612	Paxillin
+T332	CellType 14636 14641	hESCs
+T333	CellComponent 16372 16386	Tight Junction
+T334	GeneProtein 14821 14830	β-catenin
+T335	GeneProtein 14770 14782	Gap junction
+T336	GeneProtein 14814 14819	GSK3β
+T337	GeneProtein 14746 14750	TGFβ
+T338	GeneProtein 14761 14765	Stat
+T339	GeneProtein 15131 15137	Ctnnb1
+T340	GeneProtein 14757 14760	Jak
+T341	GeneProtein 14835 14846	Connexin 43
+T342	GeneProtein 7559 7565	SAPK2a
+T343	GeneProtein 15939 15943	FASN
+T344	GeneProtein 7623 7627	Cdc2
+T345	GeneProtein 15968 15973	PTP1D
+T346	GeneProtein 7466 7471	NrBMX
+T347	GeneProtein 15693 15697	MEK1
+T348	CellComponent 14770 14782	Gap junction
+T349	CellType 19036 19041	hESCs
+T350	GeneProtein 16278 16281	SHC
+T351	GeneProtein 14368 14371	Wnt
+T352	GeneProtein 15098 15103	EBP50
+T353	GeneProtein 15628 15633	C-Raf
+T354	GeneProtein 6163 6167	ERK1
+T355	GeneProtein 6631 6641	MAP kinase
+T356	CellType 12206 12211	hESCs
+T357	GeneProtein 4911 4921	PI3 kinase
+T358	GeneProtein 17482 17485	IGF
+T359	CellType 18225 18230	hESCs
+T360	CellType 18037 18042	hESCs
+T361	GeneProtein 5316 5328	endothelin 1
+T362	GeneProtein 19394 19397	ZO1
+T363	GeneProtein 19301 19306	ERBB3
+T364	CellType 19282 19287	hESCs
+T365	CellType 10717 10720	MEF
+T366	GeneProtein 16261 16268	Ras-GAP
+T367	GeneProtein 15634 15638	RAF1
+T368	GeneProtein 12367 12371	Oct4
+T369	CellLine 9451 9455	BG01
+T370	GeneProtein 12727 12731	TNIK
+T371	GeneProtein 424 431	trypsin
+T372	CellLine 12213 12217	BG01
+T373	GeneProtein 16252 16257	C-Raf
+T374	GeneProtein 3677 3688	fibronectin
+T375	GeneProtein 15296 15301	NR3C1
+T376	GeneProtein 8834 8838	ERK1
+T377	CellType 5711 5716	hESCs
+T378	CellType 22 27	hESCs
+T379	GeneProtein 5811 5818	Smad2/3
+T380	GeneProtein 5798 5802	Oct4
+T381	GeneProtein 16163 16168	C-Raf
+T382	GeneProtein 19148 19160	Heregulin 1β
+T383	GeneProtein 12165 12173	p130 Cas
+T384	GeneProtein 19165 19168	EGF
+T385	GeneProtein 12082 12089	F-actin
+T386	GeneProtein 16269 16274	RASA1
+T387	GeneProtein 18996 19000	RBB2
+T388	GeneProtein 15141 15150	Cyclin D3
+T389	CellType 14703 14708	hESCs
+T390	GeneProtein 7846 7849	RbP
+T391	CellType 4146 4156	BG03 cells
+T392	GeneProtein 15104 15112	SLC9A3R1
+T393	CellType 3660 3665	hESCs
+T394	GeneProtein 15160 15170	GSK-3 beta
+T395	GeneProtein 12156 12160	TNIK
+T396	GeneProtein 9217 9228	Connexin 43
+T397	GeneProtein 16825 16830	Dusp4
+T398	GeneProtein 7520 7543	Casein Kinase I epsilon
+T399	GeneProtein 7549 7558	p38 alpha
+T400	GeneProtein 15272 15276	JAK1
+T401	GeneProtein 17494 17498	GPCR
+T402	GeneProtein 7477 7481	MEK2
+T403	GeneProtein 15960 15964	FRAP
+T404	GeneProtein 17504 17508	GDNF
+T405	GeneProtein 16181 16185	SHC1
+T406	GeneProtein 8814 8819	HSP70
+T407	GeneProtein 15240 15247	Stat3/2
+T408	GeneProtein 8821 8829	IKKgamma
+T409	GeneProtein 15482 15487	SORT1
+T410	GeneProtein 15974 15978	SHP2
+T411	GeneProtein 15222 15227	Stat1
+T412	GeneProtein 15252 15257	Stat6
+T413	GeneProtein 15233 15236	Crk
+T414	GeneProtein 16145 16153	c-erb-B2
+T415	GeneProtein 7618 7622	Cdk1
+T416	GeneProtein 16169 16173	RAF1
+T417	GeneProtein 17703 17706	IGF
+T418	GeneProtein 17711 17716	ERBB2
+T419	GeneProtein 16721 16726	STK25
+T420	GeneProtein 16969 16974	MKK3b
+T421	GeneProtein 16466 16472	CTNNB1
+T422	GeneProtein 16732 16736	ERK1
+T423	GeneProtein 16704 16710	Map2k2
+T424	GeneProtein 16716 16720	MST3
+T425	GeneProtein 16741 16746	CDC42
+T426	GeneProtein 15862 15868	PRKCB1
+T427	GeneProtein 19994 20001	ERBB2/3
+T428	GeneProtein 6798 6805	GTPases
+T429	GeneProtein 9880 9888	p130 Cas
+T430	GeneProtein 7055 7060	AIM-1
+T431	GeneProtein 10151 10157	p21ras
+T432	GeneProtein 10939 10943	TNIK
+T433	CellComponent 9797 9807	cytoplasmi
+T434	GeneProtein 3457 3469	phosphatases
+T435	GeneProtein 10948 10956	p130 Cas
+T436	CellType 10988 10993	hESCs
+T437	GeneProtein 16519 16522	Rho
+T438	GeneProtein 16653 16657	MAPK
+T439	GeneProtein 16523 16527	ARHA
+T440	GeneProtein 20317 20322	ERBB2
+T441	GeneProtein 10002 10026	Crk-associated substrate
+T442	GeneProtein 16532 16536	ZO-1
+T443	GeneProtein 3440 3455	protein kinases
+T444	CellType 3379 3384	hESCs
+T445	GeneProtein 11957 11990	Traf2- and Nck-interacting kinase
+T446	GeneProtein 20386 20391	ERBB3
+T447	CellComponent 11635 11646	cytoplasmic
+T448	CellComponent 11651 11662	perinuclear
+T449	CellComponent 13025 13036	perinuclear
+T450	CellComponent 12830 12852	peripheral-cytoplasmic
+T451	CellComponent 11445 11467	peripheral-cytoplasmic
+T452	CellComponent 12821 12829	membrane
+T453	GeneProtein 10867 10875	p130 Cas
+T454	GeneProtein 15400 15405	Smad4
+T455	CellType 20016 20021	hESCs
+T456	GeneProtein 16680 16683	Rsk
+T457	GeneProtein 16644 16650	Ctnna1
+T458	GeneProtein 16606 16613	CSNK2A1
+T459	GeneProtein 7571 7593	Casein Kinase II alpha
+T460	GeneProtein 7949 7953	MEK1
+T461	GeneProtein 10163 10167	ShcC
+T462	GeneProtein 7633 7638	PKA C
+T463	GeneProtein 20477 20480	ZO1
+T464	GeneProtein 15616 15625	PKC alpha
+T465	CellComponent 12841 12850	cytoplasm
+T466	GeneProtein 20129 20132	ZO1
+T467	GeneProtein 20236 20244	Occludin
+T468	GeneProtein 5273 5295	neurotensin receptor 3
+T469	GeneProtein 20455 20460	ERBB3
+T470	CellType 20492 20502	BG01 cells
+T471	CellLine 20492 20496	BG01
+T472	GeneProtein 16630 16643	alpha-Catenin
+T473	GeneProtein 10267 10271	hESC
+T474	GeneProtein 16623 16627	VAPA
+T475	GeneProtein 16047 16054	PIK3C2A
+T476	GeneProtein 16617 16622	VAP33
+T477	GeneProtein 16751 16756	C-Raf
+T478	GeneProtein 16670 16674	MEK1
+T479	GeneProtein 16476 16481	CDC42
+T480	GeneProtein 5334 5342	thrombin
+T481	CellLine 4146 4150	BG03
+T482	GeneProtein 14752 14755	Wnt
+T483	GeneProtein 5362 5406	glial derived neurotrophic factor receptor α
+T484	GeneProtein 2115 2119	ERK1
+T485	Anatomy 17917 17926	epithelia
+T486	GeneProtein 9865 9888	phosphorylated-p130 Cas
+T487	CellType 10267 10272	hESCs
+T488	GeneProtein 10066 10088	phosphorylated Ras-GAP
+T489	CellType 12864 12869	hESCs
+T490	GeneProtein 19808 19813	ERBB3
+T491	CellComponent 19480 19495	tight junctions
+T492	CellType 19583 19593	epithelial
+T493	CellType 19952 19957	hESCs
+T494	CellComponent 7117 7124	nucleus
+T495	CellType 19817 19822	hESCs
+T496	CellType 20028 20033	hESCs
+T497	CellLine 20023 20027	BG01
+T498	GeneProtein 20075 20083	accutase
+T499	CellLine 10995 10999	BG01

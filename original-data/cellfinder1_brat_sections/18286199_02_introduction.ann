@@ -1,0 +1,32 @@
+T1	Anatomy 1580 1588	rosettes
+T2	CellType 617 627	stem cells
+T3	CellType 1820 1834	neural progeny
+T4	Anatomy 1766 1772	neural
+T5	Species 595 600	human
+T6	Anatomy 1644 1655	neural tube
+T7	Anatomy 455 459	bone
+T8	Anatomy 2105 2111	neural
+T9	Anatomy 1820 1826	neural
+T10	Anatomy 1187 1194	embryos
+T11	Anatomy 1954 1962	striatum
+T12	Anatomy 1372 1386	neural lineage
+T13	CellType 1438 1442	ESCs
+T14	CellType 1356 1361	hESCs
+T15	CellType 448 453	blood
+T16	CellType 443 453	cord blood
+T17	CellType 595 627	human-derived somatic stem cells
+T18	Anatomy 443 447	cord
+T19	CellType 2029 2056	tumorigenic precursor cells
+T20	Anatomy 1152 1167	inner cell mass
+T21	CellType 609 627	somatic stem cells
+T22	Anatomy 484 489	fetal
+T23	Species 1921 1925	mice
+T24	CellType 2041 2056	precursor cells
+T25	CellType 2345 2350	hESCs
+T26	CellType 2105 2117	neural cells
+T27	Anatomy 1766 1779	neural tissue
+T28	Anatomy 455 466	bone marrow
+T29	Anatomy 443 453	cord blood
+T30	Anatomy 1950 1962	rat striatum
+T31	Anatomy 448 453	blood
+T32	Anatomy 708 714	neural

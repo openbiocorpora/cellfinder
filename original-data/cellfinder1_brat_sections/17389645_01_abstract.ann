@@ -1,0 +1,12 @@
+T1	GeneProtein 74 80	DNaseI
+T2	CellType 842 852	K562 cells
+T3	GeneProtein 774 778	TAL1
+T4	GeneProtein 779 782	SCL
+T5	CellType 817 836	embryonic stem cell
+T6	Species 811 816	human
+T7	CellType 811 837	human embryonic stem cells
+T8	CellLine 842 846	K562
+T9	GeneProtein 202 208	DNaseI
+T10	GeneProtein 774 782	TAL1/SCL
+T11	CellComponent 120 123	DNA
+T12	Anatomy 817 826	embryonic
